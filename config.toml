@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Daily Environmental Research"
 theme = "hugo-xmag"
 googleAnalytics = "UA-74383918-1"
-disqusShortname = "yufree"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
