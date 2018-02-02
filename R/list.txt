@@ -1,0 +1,3 @@
+"website","update"
+"feeds.feedburner.com/acs/estlcu"," 2018-02-01"
+"feeds.feedburner.com/acs/esthag","2018-02-02"

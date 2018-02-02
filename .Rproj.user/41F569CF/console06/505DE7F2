@@ -1,0 +1,6 @@
+]0;~/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ git remote add orig in https://github.com/yufree/enviRSS.git
+fatal: Not a git repository (or any of the parent directories): .git
+]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git init.[K
+Initialized empty Git repository in /Users/yufree/enviRSS/.git/
+]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git initremote add origiin https://github.com/yufree/enviRSS.git
+]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git add .

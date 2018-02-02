@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517602173671.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "527523067",
+    "id" : "C140B311",
+    "lastKnownWriteTime" : 1517602650,
+    "last_content_update" : 1517602650771,
+    "path" : "~/enviRSS/themes/hugo-xmag/layouts/partials/comments.html",
+    "project_path" : "themes/hugo-xmag/layouts/partials/comments.html",
+    "properties" : {
+        "cursorPosition" : "12,2",
+        "scrollLine" : "2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
