@@ -17,4 +17,7 @@ script:
 after_success:
 - git add --all *
 - git commit -m "Daily update"
-- curl --include --request POST --data '{"title":"Created via API","body":"daily update","head":"yufree:master","base":"master"}' "https://api.github.com/repos/yufree/enviRSS/pulls?access_token=${GITHUB_PAT}"
+- git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
+env:
+  global:
+    secure: a3zFlG479duXlAvfIapzcRU5R8fXV2nxuctfDqhlSw4QA5Wkude1Hw8bU47AP/s0UzeH7RSPWRPR1H76zkBxvM8mwv/Jg3vVlsyzoCZyCqvpzxkwVmnSMa5IWqKvepZS0PZCt5cu5OWdEktO9FnlT1PETRQG1e52+bIrULCmKTo3OZjlcxD+9IbbAThuorlBuNROLxAFS4V4Rf/MSRZl1Cy9lAGRD1E1hNd5pGYe/QOhBOf5Tz+cl51/1fUXRQlZFkqdGHHdjZ6sLZz092aiQayaVj7xDm3VgOdeNRWw6K0fPidbeomzopWHtB2kuoA0jApJYsTq/AXJt1SCZV7/89MIAXusv7/9/WBIknikBcksfqu+NY3SyGb7F8+I+80zQXSG6FTYs60vH9WG/d+FH/8VUQee/aFlD6VotSZYXProvS5mu2RbiELw+dyMMij/hlSk4SQbVAIA2LMN05e1qPJJqYOEazrrFWVG/SujF+nAl2uTjvYWL4HIKC4yGXGC/TLqWCESDD8esMh3LmRv5FUnE3gNUYi19tuPGyrmxz7wG4H56iShYvLv1n3cmnXqzZnzASUuhYXsBh+nTdORVBFHRK+a0Nde47qBrL41FIYhwI1b5VKl3AcY3OMAbAE2+Q7VSsELMw57gz3Ai+6apNp3uAPRalzq33G7VDrgR3M=
