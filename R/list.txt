@@ -1,5 +1,5 @@
 "website","update"
-"feeds.feedburner.com/acs/estlcu","2018-02-01"
+"www.journals.elsevier.com/water-research/rss"," 2018-02-01"
 "feeds.feedburner.com/acs/esthag","2018-02-02"
-"feeds.feedburner.com/environment_scene","2018-02-01"
-"www.journals.elsevier.com/water-research/rss", "2018-02-01"
+"feeds.feedburner.com/acs/estlcu","2018-02-03"
+"feeds.feedburner.com/environment_scene","2018-02-03"
