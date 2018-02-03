@@ -10,13 +10,6 @@ hasCJKLanguage = true
 enableEmoji = true
 paginate = 9
 
-[gitment]
-  enable = true
-  owner = 'yufree'
-  repo = 'enviRSS'
-  client_id = 'cb0273f37b951850cb36' # Client ID
-  client_secret = '89778cf8e7774bbfa19d6c882127dc2cd42876ad' # Client secret
-
 [[menu.main]]
     name = "Home"
     url = "/"
