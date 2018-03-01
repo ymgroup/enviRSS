@@ -2,4 +2,4 @@
 "www.journals.elsevier.com/water-research/rss"," 2018-02-01"
 "feeds.feedburner.com/environment_scene","2018-02-26"
 "feeds.feedburner.com/acs/estlcu","2018-02-28"
-"feeds.feedburner.com/acs/esthag","2018-02-28"
+"feeds.feedburner.com/acs/esthag","2018-03-01"
