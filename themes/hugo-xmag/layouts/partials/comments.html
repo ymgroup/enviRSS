@@ -1,14 +1,5 @@
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  owner: 'yufree',
-  repo: 'enviRSS',
-  oauth: {
-    client_id: 'cb0273f37b951850cb36',
-    client_secret: '89778cf8e7774bbfa19d6c882127dc2cd42876ad',
-  },
-})
-gitment.render('container')
-</script>
+{{ if and .Site.DisqusShortname (not (or .Site.Params.disable_comments .Params.disable_comments)) }}
+<section class="comments">
+	{{ template "_internal/disqus.html" . }}
+</section>
+{{ end }}
