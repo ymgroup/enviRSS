@@ -1,1021 +1,0 @@
-
- create mode 100644 public/post/index.html
- create mode 100644 public/post/index.xml
- create mode 100644 public/post/page/1/index.html
- create mode 100644 public/sitemap.xml
- create mode 100644 public/tags/index.html
- create mode 100644 public/tags/index.xml
- create mode 100644 public/tags/page/1/index.html
- create mode 100644 themes/hugo-xmag/.gitignore
- create mode 100644 themes/hugo-xmag/LICENSE.md
- create mode 100644 themes/hugo-xmag/README.md
- create mode 100644 themes/hugo-xmag/archetypes/default.md
- create mode 100644 themes/hugo-xmag/exampleSite/config.toml
- create mode 100644 themes/hugo-xmag/exampleSite/content/_index.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/about.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/post/2015-07-23-lorem-ipsum.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/post/2015-07-23-lorem-ipsum2.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/post/2015-07-23-lorem-ipsum3.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/post/2015-07-23-lorem-ipsum4.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/post/2015-07-23-lorem-ipsum5.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/post/2015-07-23-lorem-ipsum6.md
- create mode 100644 themes/hugo-xmag/exampleSite/content/post/2017-02-14-hello-markdown.md
- create mode 100644 themes/hugo-xmag/exampleSite/data/authors.yaml
- create mode 100644 themes/hugo-xmag/hugo-xmag.Rproj
- create mode 100644 themes/hugo-xmag/images/screenshot.png
- create mode 100644 themes/hugo-xmag/images/tn.png
- create mode 100644 themes/hugo-xmag/layouts/404.html
- create mode 100644 themes/hugo-xmag/layouts/_default/list.html
- create mode 100644 themes/hugo-xmag/layouts/_default/single.html
- create mode 100644 themes/hugo-xmag/layouts/_default/terms.html
- create mode 100644 themes/hugo-xmag/layouts/index.xml
- create mode 100644 themes/hugo-xmag/layouts/partials/author.html
- create mode 100644 themes/hugo-xmag/layouts/partials/author_names.html
- create mode 100644 themes/hugo-xmag/layouts/partials/banner.html
- create mode 100644 themes/hugo-xmag/layouts/partials/comments.html
- create mode 100644 themes/hugo-xmag/layouts/partials/foot_custom.html
- create mode 100644 themes/hugo-xmag/layouts/partials/footer.html
- create mode 100644 themes/hugo-xmag/layouts/partials/head_custom.html
- create mode 100644 themes/hugo-xmag/layouts/partials/header.html
- create mode 100644 themes/hugo-xmag/layouts/partials/info.html
- create mode 100644 themes/hugo-xmag/layouts/partials/meta.html
- create mode 100644 themes/hugo-xmag/layouts/partials/prev_next.html
- create mode 100644 themes/hugo-xmag/static/css/fonts.css
- create mode 100644 themes/hugo-xmag/static/css/style.css
- create mode 100644 themes/hugo-xmag/theme.toml
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mas ter
-Counting objects: 126, done.
-Delta compression using up to 4 threads.
-Compressing objects:   0% (1/102)   Compressing objects:   1% (2/102)   Compressing objects:   2% (3/102)   Compressing objects:   3% (4/102)   Compressing objects:   4% (5/102)   Compressing objects:   5% (6/102)   Compressing objects:   6% (7/102)   Compressing objects:   7% (8/102)   Compressing objects:   8% (9/102)   Compressing objects:   9% (10/102)   Compressing objects:  10% (11/102)   Compressing objects:  11% (12/102)   Compressing objects:  12% (13/102)   Compressing objects:  13% (14/102)   Compressing objects:  14% (15/102)   Compressing objects:  15% (16/102)   Compressing objects:  16% (17/102)   Compressing objects:  17% (18/102)   Compressing objects:  18% (19/102)   Compressing objects:  19% (20/102)   Compressing objects:  20% (21/102)   Compressing objects:  21% (22/102)   Compressing objects:  22% (23/102)   Compressing objects:  23% (24/102)   Compressing objects:  24% (25/102)   Compressing objects:  25% (26/102)   Compressing objects:  26% (27/102)   Compressing objects:  27% (28/102)   Compressing objects:  28% (29/102)   Compressing objects:  29% (30/102)   Compressing objects:  30% (31/102)   Compressing objects:  31% (32/102)   Compressing objects:  32% (33/102)   Compressing objects:  33% (34/102)   Compressing objects:  34% (35/102)   Compressing objects:  35% (36/102)   Compressing objects:  36% (37/102)   Compressing objects:  37% (38/102)   Compressing objects:  38% (39/102)   Compressing objects:  39% (40/102)   Compressing objects:  40% (41/102)   Compressing objects:  41% (42/102)   Compressing objects:  42% (43/102)   Compressing objects:  43% (44/102)   Compressing objects:  44% (45/102)   Compressing objects:  45% (46/102)   Compressing objects:  46% (47/102)   Compressing objects:  47% (48/102)   Compressing objects:  48% (49/102)   Compressing objects:  49% (50/102)   Compressing objects:  50% (51/102)   Compressing objects:  51% (53/102)   Compressing objects:  52% (54/102)   Compressing objects:  53% (55/102)   Compressing objects:  54% (56/102)   Compressing objects:  55% (57/102)   Compressing objects:  56% (58/102)   Compressing objects:  57% (59/102)   Compressing objects:  58% (60/102)   Compressing objects:  59% (61/102)   Compressing objects:  60% (62/102)   Compressing objects:  61% (63/102)   Compressing objects:  62% (64/102)   Compressing objects:  63% (65/102)   Compressing objects:  64% (66/102)   Compressing objects:  65% (67/102)   Compressing objects:  66% (68/102)   Compressing objects:  67% (69/102)   Compressing objects:  68% (70/102)   Compressing objects:  69% (71/102)   Compressing objects:  70% (72/102)   Compressing objects:  71% (73/102)   Compressing objects:  72% (74/102)   Compressing objects:  73% (75/102)   Compressing objects:  74% (76/102)   Compressing objects:  75% (77/102)   Compressing objects:  76% (78/102)   Compressing objects:  77% (79/102)   Compressing objects:  78% (80/102)   Compressing objects:  79% (81/102)   Compressing objects:  80% (82/102)   Compressing objects:  81% (83/102)   Compressing objects:  82% (84/102)   Compressing objects:  83% (85/102)   Compressing objects:  84% (86/102)   Compressing objects:  85% (87/102)   Compressing objects:  86% (88/102)   Compressing objects:  87% (89/102)   Compressing objects:  88% (90/102)   Compressing objects:  89% (91/102)   Compressing objects:  90% (92/102)   Compressing objects:  91% (93/102)   Compressing objects:  92% (94/102)   Compressing objects:  93% (95/102)   Compressing objects:  94% (96/102)   Compressing objects:  95% (97/102)   Compressing objects:  96% (98/102)   Compressing objects:  97% (99/102)   Compressing objects:  98% (100/102)   Compressing objects:  99% (101/102)   Compressing objects: 100% (102/102)   Compressing objects: 100% (102/102), done.
-Writing objects:   0% (1/126)   Writing objects:   1% (2/126)   Writing objects:   2% (3/126)   Writing objects:   3% (4/126)   Writing objects:   4% (6/126)   Writing objects:   5% (7/126)   Writing objects:   6% (8/126)   Writing objects:   7% (9/126)   Writing objects:   8% (11/126)   Writing objects:   9% (12/126)   Writing objects:  10% (13/126)   Writing objects:  11% (14/126)   Writing objects:  12% (16/126)   Writing objects:  13% (17/126)   Writing objects:  14% (18/126)   Writing objects:  15% (20/126)   Writing objects:  16% (21/126)   Writing objects:  17% (22/126)   Writing objects:  18% (23/126)   Writing objects:  19% (24/126)   Writing objects:  20% (26/126)   Writing objects:  21% (27/126)   Writing objects:  22% (28/126)   Writing objects:  23% (29/126)   Writing objects:  24% (31/126)   Writing objects:  25% (32/126)   Writing objects:  26% (33/126)   Writing objects:  27% (35/126)   Writing objects:  29% (37/126)   Writing objects:  30% (38/126)   Writing objects:  31% (40/126)   Writing objects:  34% (43/126)   Writing objects:  35% (45/126)   Writing objects:  36% (46/126)   Writing objects:  38% (48/126)   Writing objects:  39% (50/126)   Writing objects:  40% (51/126)   Writing objects:  41% (52/126)   Writing objects:  42% (53/126)   Writing objects:  43% (55/126)   Writing objects:  45% (57/126)   Writing objects:  46% (58/126)   Writing objects:  47% (60/126)   Writing objects:  48% (61/126)   Writing objects:  49% (62/126)   Writing objects:  50% (63/126)   Writing objects:  51% (65/126)   Writing objects:  52% (66/126)   Writing objects:  53% (67/126)   Writing objects:  54% (69/126)   Writing objects:  55% (70/126)   Writing objects:  57% (72/126)   Writing objects:  58% (74/126)   Writing objects:  59% (75/126)   Writing objects:  60% (76/126)   Writing objects:  61% (77/126)   Writing objects:  62% (79/126)   Writing objects:  63% (80/126)   Writing objects:  64% (81/126)   Writing objects:  65% (82/126)   Writing objects:  66% (84/126)   Writing objects:  67% (85/126)   Writing objects:  68% (86/126)   Writing objects:  69% (87/126)   Writing objects:  70% (89/126)   Writing objects:  71% (90/126)   Writing objects:  72% (91/126)   Writing objects:  73% (92/126)   Writing objects:  74% (94/126)   Writing objects:  75% (95/126)   Writing objects:  76% (96/126)   Writing objects:  77% (98/126)   Writing objects:  78% (99/126)   Writing objects:  79% (100/126)   Writing objects:  80% (101/126)   Writing objects:  81% (103/126)   Writing objects:  82% (104/126)   Writing objects:  83% (105/126)   Writing objects:  84% (106/126)   Writing objects:  85% (108/126)   Writing objects:  86% (109/126)   Writing objects:  87% (110/126)   Writing objects:  88% (111/126)   Writing objects:  89% (113/126)   Writing objects:  90% (114/126)   Writing objects:  91% (115/126)   Writing objects:  92% (116/126)   Writing objects:  93% (118/126)   Writing objects:  94% (119/126)   Writing objects:  95% (120/126)   Writing objects:  96% (121/126)   Writing objects:  97% (123/126)   Writing objects:  98% (124/126)   Writing objects:  99% (125/126)   Writing objects: 100% (126/126)   Writing objects: 100% (126/126), 171.46 KiB | 1020.00 KiB/s, done.
-Total 126 (delta 27), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/27)   [Kremote: Resolving deltas:  11% (3/27)   [Kremote: Resolving deltas:  14% (4/27)   [Kremote: Resolving deltas:  18% (5/27)   [Kremote: Resolving deltas:  29% (8/27)   [Kremote: Resolving deltas:  33% (9/27)   [Kremote: Resolving deltas:  62% (17/27)   [Kremote: Resolving deltas:  70% (19/27)   [Kremote: Resolving deltas:  81% (22/27)   [Kremote: Resolving deltas: 100% (27/27)   [Kremote: Resolving deltas: 100% (27/27), done.[K
-To https://github.com/yufree/enviRSS.git
- * [new branch]      master -> master
-]0;~/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mastter
-Counting objects: 6, done.
-Delta compression using up to 4 threads.
-Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
-Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 597 bytes | 597.00 KiB/s, done.
-Total 6 (delta 3), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 2 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   6b4ab1b..e6a37ae  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mastter
-Counting objects: 8, done.
-Delta compression using up to 4 threads.
-Compressing objects:  14% (1/7)   Compressing objects:  28% (2/7)   Compressing objects:  42% (3/7)   Compressing objects:  57% (4/7)   Compressing objects:  71% (5/7)   Compressing objects:  85% (6/7)   Compressing objects: 100% (7/7)   Compressing objects: 100% (7/7), done.
-Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 572 bytes | 572.00 KiB/s, done.
-Total 8 (delta 6), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/6)   [Kremote: Resolving deltas:  16% (1/6)   [Kremote: Resolving deltas:  33% (2/6)   [Kremote: Resolving deltas:  50% (3/6)   [Kremote: Resolving deltas:  66% (4/6)   [Kremote: Resolving deltas:  83% (5/6)   [Kremote: Resolving deltas: 100% (6/6)   [Kremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   e6a37ae..51784ec  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mastter
-Counting objects: 7, done.
-Delta compression using up to 4 threads.
-Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
-Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 503 bytes | 503.00 KiB/s, done.
-Total 7 (delta 5), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   51784ec..87b640c  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ travis encr[K[14P(reverse-i-search)`':[C[C[C[C[C[C[C[C[C[C[C[1@t[C[C[C[1@r[C[C[C[1@a[C[C[C[1@v[C[C[C[1@i[C[C[C[1@s[C[C[C[1@ [C[C[C[1@e[C[C[C[1@n[C[C[C[C[C[C[C[C[C[C[C[C[Crypt GITHUB_PATT = $GITHUB_PAT --add[A[C[C[C[C[C[C[C[C[C[CyumiaodeMacBook-Pro:enviRSS yufree$ travis encrypt GITHU[5@B_PAT[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C =[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C = [1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C = $[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C = $G[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca = $[1@G[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C7 = [1@$[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6 =[1@ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1 [1@=[1@0[1@0[1@a[1@6[1@7[1@3[1@7[1@7[1@f[1@b[1@4[1@d[1@7[1@4[1@b[1@e[1@e[1@b[1@c[1@c[1@d[1@f[1@6[1@8[1@c[1@c[1@e[1@c[1@4[1@c[1@b[1@a[1@0[1@bb = $GITHUB_PAT --add [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C9 = $GITHUB_PAT --addd[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-Detected repository as [33myufree/enviRSS[0m, is this correct? |yes| yes
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ travis encrypt a761000a67377fb4d74beebccdf68ccec4cba0bb9 = $GITHUB_PAT --addd[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin master[K
-[K[A[C[C[C
-Counting objects: 6, done.
-Delta compression using up to 4 threads.
-Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
-Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 1.35 KiB | 1.35 MiB/s, done.
-Total 6 (delta 3), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 2 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   87b640c..96bc9de  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mastter
-Counting objects: 3, done.
-Delta compression using up to 4 threads.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 360 bytes | 360.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-To https://github.com/yufree/enviRSS.git
-   96bc9de..3df528f  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mastter[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt a76100a67377fb4d74beebccdf68ccec4cba0bb9 = $GITHUB_PAT --addd[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C --add [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P --add
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P --add[1P --add[1P --add[1P --add[1P --add[1P --add[Agit push origin master[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin mastter[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt a76100a67377fb4d74beebccdf68ccec4cba0bb9 = $GI --add[Agit push origin master[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m 'test'[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Padd .
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m 'test''[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt a76100a67377fb4d74beebccdf68ccec4cba0bb9 = $GI --add[Agit push origin master[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt a76100a67377fb4d74beebccdf68ccec4cba0bb9 = $GI --addT --addH --addU --addB --add_ --addP --addA --add [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CT --addd[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C --add[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C= --a[Cd[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C --add[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$GITHUB_PAT =  --a[1Pdd[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$GITHUB_PAT =  --ad[C[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$GITHUB_PAT =  --add[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$GITHUB_PAT =  --add [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$G[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$GI[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$GIT[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$GITH[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[C[C[C[C[C[C[C[C[C[C[Ca --add7 --add6 --add1 --add0 --add0 --adda --add6 --add7 --add3 --add7 --add7 --addf --addb --add4 --addd --add7 --add4 --addb --adde --adde --addb --addc --addc --addd --addf --add6 --add8 --addc --addc --adde --addc --add4 --addc --addb --adda --add0 --addb --addb --add [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C9 --addd[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ travis encrypt $GITHHUB_PAT = a76100a67377fb4d74beebccdf68ccec4cba0bb9 --addd[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin master[K
-[K[A[C[C[C
-Counting objects: 3, done.
-Delta compression using up to 4 threads.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 1.09 KiB | 1.09 MiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-To https://github.com/yufree/enviRSS.git
-   3df528f..642fd3c  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mastter[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt $GITHUB_PAT = a76100a67377fb4d74beebccdf68ccec4cba0bb9 --addd[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin master[K
-[K[A[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt a76100a67377fb4d74beebccdf68ccec4cba0bb9 = $GITHUB_PAT --addd[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin master[K
-[K[A[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt a76100a67377fb4d74beebccdf68ccec4cba0bb9 = $GITHUB_PAT --addd[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin master[K
-[K[A[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt $GITHUB_PAT = a76100a67377fb4d74beebccdf68ccec4cba0bb9 --addd[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin master[K
-[K[A[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14P(reverse-i-search)`':[Ct': git push origin master[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr': travis encrypt $GITHUB_PAT = a766100a67377fb4d74beebccdf68ccec4cba0bb9 --add[Aa': travis encrypt $GITHUB_PAT = a7[1@6[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca76100a67377fb4d74beebccdf68ccec4cba0bb9 = $GITHUB_PAT[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CGITHUB_PAT = $GITHUB_PAT --add[K[A[C[C[C[C[C[C[C[C[C[CyumiaodeMacBook-Pro:enviRSS yufree$ travis encrypt GITHU[11@B_PAT = $GI[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ travis encrypt GITHUUB_PAT = $GITHUB_PAT --add
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ travis encrypt GITHUUB_PAT = $GITHUB_PAT --add[A[C[C[C[C[C[C[C[C[C[Cgit push origin master[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctravis encrypt $GITHUB_PAT = a76100a67377fb4d74beebccdf68ccec4cba0bb9 --addd[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push origin master[K
-[K[A[C[C[C
-Counting objects: 3, done.
-Delta compression using up to 4 threads.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 1.09 KiB | 1.09 MiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-To https://github.com/yufree/enviRSS.git
-   642fd3c..3ce40ea  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin mastter
-Counting objects: 42, done.
-Delta compression using up to 4 threads.
-Compressing objects:   2% (1/34)   Compressing objects:   5% (2/34)   Compressing objects:   8% (3/34)   Compressing objects:  11% (4/34)   Compressing objects:  14% (5/34)   Compressing objects:  17% (6/34)   Compressing objects:  20% (7/34)   Compressing objects:  23% (8/34)   Compressing objects:  26% (9/34)   Compressing objects:  29% (10/34)   Compressing objects:  32% (11/34)   Compressing objects:  35% (12/34)   Compressing objects:  38% (13/34)   Compressing objects:  41% (14/34)   Compressing objects:  44% (15/34)   Compressing objects:  47% (16/34)   Compressing objects:  50% (17/34)   Compressing objects:  52% (18/34)   Compressing objects:  55% (19/34)   Compressing objects:  58% (20/34)   Compressing objects:  61% (21/34)   Compressing objects:  64% (22/34)   Compressing objects:  67% (23/34)   Compressing objects:  70% (24/34)   Compressing objects:  73% (25/34)   Compressing objects:  76% (26/34)   Compressing objects:  79% (27/34)   Compressing objects:  82% (28/34)   Compressing objects:  85% (29/34)   Compressing objects:  88% (30/34)   Compressing objects:  91% (31/34)   Compressing objects:  94% (32/34)   Compressing objects:  97% (33/34)   Compressing objects: 100% (34/34)   Compressing objects: 100% (34/34), done.
-Writing objects:   2% (1/42)   Writing objects:   4% (2/42)   Writing objects:   7% (3/42)   Writing objects:   9% (4/42)   Writing objects:  11% (5/42)   Writing objects:  14% (6/42)   Writing objects:  16% (7/42)   Writing objects:  19% (8/42)   Writing objects:  21% (9/42)   Writing objects:  23% (10/42)   Writing objects:  26% (11/42)   Writing objects:  28% (12/42)   Writing objects:  30% (13/42)   Writing objects:  33% (14/42)   Writing objects:  35% (15/42)   Writing objects:  38% (16/42)   Writing objects:  40% (17/42)   Writing objects:  42% (18/42)   Writing objects:  45% (19/42)   Writing objects:  47% (20/42)   Writing objects:  50% (21/42)   Writing objects:  54% (23/42)   Writing objects:  57% (24/42)   Writing objects:  59% (25/42)   Writing objects:  61% (26/42)   Writing objects:  66% (28/42)   Writing objects:  69% (29/42)   Writing objects:  71% (30/42)   Writing objects:  73% (31/42)   Writing objects:  76% (32/42)   Writing objects:  80% (34/42)   Writing objects:  83% (35/42)   Writing objects:  85% (36/42)   Writing objects:  88% (37/42)   Writing objects:  90% (38/42)   Writing objects:  92% (39/42)   Writing objects:  95% (40/42)   Writing objects:  97% (41/42)   Writing objects: 100% (42/42)   Writing objects: 100% (42/42), 9.81 KiB | 179.00 KiB/s, done.
-Total 42 (delta 18), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/18)   [Kremote: Resolving deltas:  11% (2/18)   [Kremote: Resolving deltas:  16% (3/18)   [Kremote: Resolving deltas:  22% (4/18)   [Kremote: Resolving deltas:  27% (5/18)   [Kremote: Resolving deltas:  33% (6/18)   [Kremote: Resolving deltas:  38% (7/18)   [Kremote: Resolving deltas:  50% (9/18)   [Kremote: Resolving deltas:  55% (10/18)   [Kremote: Resolving deltas:  77% (14/18)   [Kremote: Resolving deltas: 100% (18/18)   [Kremote: Resolving deltas: 100% (18/18), completed with 10 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   3ce40ea..8c53a8d  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ openssl
-OpenSSL> se  ase-256-cbc
-openssl:Error: 'ase-256-cbc' is an invalid command.
-
-Standard commands
-asn1parse         ca                ciphers           cms               
-crl               crl2pkcs7         dgst              dh                
-dhparam           dsa               dsaparam          ec                
-ecparam           enc               engine            errstr            
-gendh             gendsa            genpkey           genrsa            
-nseq              ocsp              passwd            pkcs12            
-pkcs7             pkcs8             pkey              pkeyparam         
-pkeyutl           prime             rand              req               
-rsa               rsautl            s_client          s_server          
-s_time            sess_id           smime             speed             
-spkac             srp               ts                verify            
-version           x509              
-
-Message Digest commands (see the `dgst' command for more details)
-md4               md5               mdc2              rmd160            
-sha               sha1              
-
-Cipher commands (see the `enc' command for more details)
-aes-128-cbc       aes-128-ecb       aes-192-cbc       aes-192-ecb       
-aes-256-cbc       aes-256-ecb       base64            bf                
-bf-cbc            bf-cfb            bf-ecb            bf-ofb            
-camellia-128-cbc  camellia-128-ecb  camellia-192-cbc  camellia-192-ecb  
-camellia-256-cbc  camellia-256-ecb  cast              cast-cbc          
-cast5-cbc         cast5-cfb         cast5-ecb         cast5-ofb         
-des               des-cbc           des-cfb           des-ecb           
-des-ede           des-ede-cbc       des-ede-cfb       des-ede-ofb       
-des-ede3          des-ede3-cbc      des-ede3-cfb      des-ede3-ofb      
-des-ofb           des3              desx              idea              
-idea-cbc          idea-cfb          idea-ecb          idea-ofb          
-rc2               rc2-40-cbc        rc2-64-cbc        rc2-cbc           
-rc2-cfb           rc2-ecb           rc2-ofb           rc4               
-rc4-40            seed              seed-cbc          seed-cfb          
-seed-ecb          seed-ofb          zlib              
-
-OpenSSL> ^C
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ [KyumiaodeMacBook-Pro:enviRSS yufree$ opensslgit push origin master
-Counting objects: 8, done.
-Delta compression using up to 4 threads.
-Compressing objects:  14% (1/7)   Compressing objects:  28% (2/7)   Compressing objects:  42% (3/7)   Compressing objects:  57% (4/7)   Compressing objects:  71% (5/7)   Compressing objects:  85% (6/7)   Compressing objects: 100% (7/7)   Compressing objects: 100% (7/7), done.
-Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 970 bytes | 970.00 KiB/s, done.
-Total 8 (delta 5), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   8c53a8d..dc10725  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin master
-Counting objects: 15, done.
-Delta compression using up to 4 threads.
-Compressing objects:   7% (1/14)   Compressing objects:  14% (2/14)   Compressing objects:  21% (3/14)   Compressing objects:  28% (4/14)   Compressing objects:  35% (5/14)   Compressing objects:  42% (6/14)   Compressing objects:  50% (7/14)   Compressing objects:  57% (8/14)   Compressing objects:  64% (9/14)   Compressing objects:  71% (10/14)   Compressing objects:  78% (11/14)   Compressing objects:  85% (12/14)   Compressing objects:  92% (13/14)   Compressing objects: 100% (14/14)   Compressing objects: 100% (14/14), done.
-Writing objects:   6% (1/15)   Writing objects:  13% (2/15)   Writing objects:  20% (3/15)   Writing objects:  26% (4/15)   Writing objects:  33% (5/15)   Writing objects:  40% (6/15)   Writing objects:  46% (7/15)   Writing objects:  53% (8/15)   Writing objects:  60% (9/15)   Writing objects:  66% (10/15)   Writing objects:  73% (11/15)   Writing objects:  80% (12/15)   Writing objects:  86% (13/15)   Writing objects:  93% (14/15)   Writing objects: 100% (15/15)   Writing objects: 100% (15/15), 2.58 KiB | 64.00 KiB/s, done.
-Total 15 (delta 4), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4)   [Kremote: Resolving deltas:  50% (2/4)   [Kremote: Resolving deltas:  75% (3/4)   [Kremote: Resolving deltas: 100% (4/4)   [Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   dc10725..b7ed232  master -> master
-]0;~/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ hugogit push origin master
-Counting objects: 9, done.
-Delta compression using up to 4 threads.
-Compressing objects:  14% (1/7)   Compressing objects:  28% (2/7)   Compressing objects:  42% (3/7)   Compressing objects:  57% (4/7)   Compressing objects:  71% (5/7)   Compressing objects:  85% (6/7)   Compressing objects: 100% (7/7)   Compressing objects: 100% (7/7), done.
-Writing objects:  11% (1/9)   Writing objects:  22% (2/9)   Writing objects:  33% (3/9)   Writing objects:  44% (4/9)   Writing objects:  55% (5/9)   Writing objects:  66% (6/9)   Writing objects:  77% (7/9)   Writing objects:  88% (8/9)   Writing objects: 100% (9/9)   Writing objects: 100% (9/9), 753 bytes | 753.00 KiB/s, done.
-Total 9 (delta 6), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/6)   [Kremote: Resolving deltas:  16% (1/6)   [Kremote: Resolving deltas:  33% (2/6)   [Kremote: Resolving deltas:  50% (3/6)   [Kremote: Resolving deltas:  66% (4/6)   [Kremote: Resolving deltas:  83% (5/6)   [Kremote: Resolving deltas: 100% (6/6)   [Kremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   b7ed232..edff4e4  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git push origin master
-Counting objects: 4, done.
-Delta compression using up to 4 threads.
-Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
-Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 411 bytes | 411.00 KiB/s, done.
-Total 4 (delta 2), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   edff4e4..9ed93e1  master -> master
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ hugo
-Error: While parsing config: (15, 11): keys cannot contain new lines
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ hugo
-[?25lBuilding sites … [?25h[K
-                   | EN  
-+------------------+----+
-  Pages            | 15  
-  Paginator pages  |  0  
-  Non-page files   |  0  
-  Static files     |  2  
-  Processed images |  0  
-  Aliases          |  4  
-  Sitemaps         |  1  
-  Cleaned          |  0  
-
-Total in 67 ms
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ hugogit push origin master
-Counting objects: 8, done.
-Delta compression using up to 4 threads.
-Compressing objects:  14% (1/7)   Compressing objects:  28% (2/7)   Compressing objects:  42% (3/7)   Compressing objects:  57% (4/7)   Compressing objects:  71% (5/7)   Compressing objects:  85% (6/7)   Compressing objects: 100% (7/7)   Compressing objects: 100% (7/7), done.
-Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 991 bytes | 991.00 KiB/s, done.
-Total 8 (delta 5), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   9ed93e1..88e6268  master -> master
-]0;~/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ git push origin master
-To https://github.com/yufree/enviRSS.git
- ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://github.com/yufree/enviRSS.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git pull
-remote: Counting objects: 8, done.[K
-remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
-remote: Total 8 (delta 4), reused 8 (delta 4), pack-reused 0[K
-Unpacking objects:  12% (1/8)   Unpacking objects:  25% (2/8)   Unpacking objects:  37% (3/8)   Unpacking objects:  50% (4/8)   Unpacking objects:  62% (5/8)   Unpacking objects:  75% (6/8)   Unpacking objects:  87% (7/8)   Unpacking objects: 100% (8/8)   Unpacking objects: 100% (8/8), done.
-From https://github.com/yufree/enviRSS
-   88e6268..4d4e6dc  master     -> origin/master
-There is no tracking information for the current branch.
-Please specify which branch you want to merge with.
-See git-pull(1) for details.
-
-    git pull <remote> <branch>
-
-If you wish to set tracking information for this branch you can do so with:
-
-    git branch --set-upstream-to=origin/<branch> master
-
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git pull origin master
-From https://github.com/yufree/enviRSS
- * branch            master     -> FETCH_HEAD
-[?2004hMerge made by the 'recursive' strategy.
- R/list.txt                   |  6 [32m+++[m[31m---[m
- content/post/2018-02-03-1.md |  9 [32m+++++++++[m
- content/post/2018-02-03-2.md | 12 [32m++++++++++++[m
- 3 files changed, 24 insertions(+), 3 deletions(-)
- create mode 100644 content/post/2018-02-03-1.md
- create mode 100644 content/post/2018-02-03-2.md
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git pull origin master[Ksh origin master
-Counting objects: 5, done.
-Delta compression using up to 4 threads.
-Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
-Writing objects:  20% (1/5)   Writing objects:  40% (2/5)   Writing objects:  60% (3/5)   Writing objects:  80% (4/5)   Writing objects: 100% (5/5)   Writing objects: 100% (5/5), 573 bytes | 573.00 KiB/s, done.
-Total 5 (delta 3), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   4d4e6dc..6d46a98  master -> master
-]0;~/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ hugogit push origin master
-Counting objects: 8, done.
-Delta compression using up to 4 threads.
-Compressing objects:  14% (1/7)   Compressing objects:  28% (2/7)   Compressing objects:  42% (3/7)   Compressing objects:  57% (4/7)   Compressing objects:  71% (5/7)   Compressing objects:  85% (6/7)   Compressing objects: 100% (7/7)   Compressing objects: 100% (7/7), done.
-Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 808 bytes | 808.00 KiB/s, done.
-Total 8 (delta 5), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   6d46a98..97a4c80  master -> master
-]0;~/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ tlmgr search --file --global ''/ctexbook.cls'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython2 main.py -c 0.05 -f day14.txt -p 100 -m negative -o myoutput[Atlmgr search --file --global '[23P/ctexbook.cls'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit uploa[K[K[K[K[Kpush [K[K[K[Kull original[K[K master
-remote: Counting objects: 462, done.[K
-remote: Compressing objects:   2% (1/40)   [Kremote: Compressing objects:   5% (2/40)   [Kremote: Compressing objects:   7% (3/40)   [Kremote: Compressing objects:  10% (4/40)   [Kremote: Compressing objects:  12% (5/40)   [Kremote: Compressing objects:  15% (6/40)   [Kremote: Compressing objects:  17% (7/40)   [Kremote: Compressing objects:  20% (8/40)   [Kremote: Compressing objects:  22% (9/40)   [Kremote: Compressing objects:  25% (10/40)   [Kremote: Compressing objects:  27% (11/40)   [Kremote: Compressing objects:  30% (12/40)   [Kremote: Compressing objects:  32% (13/40)   [Kremote: Compressing objects:  35% (14/40)   [Kremote: Compressing objects:  37% (15/40)   [Kremote: Compressing objects:  40% (16/40)   [Kremote: Compressing objects:  42% (17/40)   [Kremote: Compressing objects:  45% (18/40)   [Kremote: Compressing objects:  47% (19/40)   [Kremote: Compressing objects:  50% (20/40)   [Kremote: Compressing objects:  52% (21/40)   [Kremote: Compressing objects:  55% (22/40)   [Kremote: Compressing objects:  57% (23/40)   [Kremote: Compressing objects:  60% (24/40)   [Kremote: Compressing objects:  62% (25/40)   [Kremote: Compressing objects:  65% (26/40)   [Kremote: Compressing objects:  67% (27/40)   [Kremote: Compressing objects:  70% (28/40)   [Kremote: Compressing objects:  72% (29/40)   [Kremote: Compressing objects:  75% (30/40)   [Kremote: Compressing objects:  77% (31/40)   [Kremote: Compressing objects:  80% (32/40)   [Kremote: Compressing objects:  82% (33/40)   [Kremote: Compressing objects:  85% (34/40)   [Kremote: Compressing objects:  87% (35/40)   [Kremote: Compressing objects:  90% (36/40)   [Kremote: Compressing objects:  92% (37/40)   [Kremote: Compressing objects:  95% (38/40)   [Kremote: Compressing objects:  97% (39/40)   [Kremote: Compressing objects: 100% (40/40)   [Kremote: Compressing objects: 100% (40/40), done.[K
-Receiving objects:   0% (1/462)   Receiving objects:   1% (5/462)   Receiving objects:   2% (10/462)   Receiving objects:   3% (14/462)   Receiving objects:   4% (19/462)   Receiving objects:   5% (24/462)   Receiving objects:   6% (28/462)   Receiving objects:   7% (33/462)   Receiving objects:   8% (37/462)   Receiving objects:   9% (42/462)   Receiving objects:  10% (47/462)   Receiving objects:  11% (51/462)   Receiving objects:  12% (56/462)   Receiving objects:  13% (61/462)   Receiving objects:  14% (65/462)   Receiving objects:  15% (70/462)   Receiving objects:  16% (74/462)   Receiving objects:  17% (79/462)   Receiving objects:  18% (84/462)   remote: Total 462 (delta 279), reused 286 (delta 263), pack-reused 159[K
-Receiving objects:  19% (88/462)   Receiving objects:  20% (93/462)   Receiving objects:  21% (98/462)   Receiving objects:  22% (102/462)   Receiving objects:  23% (107/462)   Receiving objects:  24% (111/462)   Receiving objects:  25% (116/462)   Receiving objects:  26% (121/462)   Receiving objects:  27% (125/462)   Receiving objects:  28% (130/462)   Receiving objects:  29% (134/462)   Receiving objects:  30% (139/462)   Receiving objects:  31% (144/462)   Receiving objects:  32% (148/462)   Receiving objects:  33% (153/462)   Receiving objects:  34% (158/462)   Receiving objects:  35% (162/462)   Receiving objects:  36% (167/462)   Receiving objects:  37% (171/462)   Receiving objects:  38% (176/462)   Receiving objects:  39% (181/462)   Receiving objects:  40% (185/462)   Receiving objects:  41% (190/462)   Receiving objects:  42% (195/462)   Receiving objects:  43% (199/462)   Receiving objects:  44% (204/462)   Receiving objects:  45% (208/462)   Receiving objects:  46% (213/462)   Receiving objects:  47% (218/462)   Receiving objects:  48% (222/462)   Receiving objects:  49% (227/462)   Receiving objects:  50% (231/462)   Receiving objects:  51% (236/462)   Receiving objects:  52% (241/462)   Receiving objects:  53% (245/462)   Receiving objects:  54% (250/462)   Receiving objects:  55% (255/462)   Receiving objects:  56% (259/462)   Receiving objects:  57% (264/462)   Receiving objects:  58% (268/462)   Receiving objects:  59% (273/462)   Receiving objects:  60% (278/462)   Receiving objects:  61% (282/462)   Receiving objects:  62% (287/462)   Receiving objects:  63% (292/462)   Receiving objects:  64% (296/462)   Receiving objects:  65% (301/462)   Receiving objects:  66% (305/462)   Receiving objects:  67% (310/462)   Receiving objects:  68% (315/462)   Receiving objects:  69% (319/462)   Receiving objects:  70% (324/462)   Receiving objects:  71% (329/462)   Receiving objects:  72% (333/462)   Receiving objects:  73% (338/462)   Receiving objects:  74% (342/462)   Receiving objects:  75% (347/462)   Receiving objects:  76% (352/462)   Receiving objects:  77% (356/462)   Receiving objects:  78% (361/462)   Receiving objects:  79% (365/462)   Receiving objects:  80% (370/462)   Receiving objects:  81% (375/462)   Receiving objects:  82% (379/462)   Receiving objects:  83% (384/462)   Receiving objects:  84% (389/462)   Receiving objects:  85% (393/462)   Receiving objects:  86% (398/462)   Receiving objects:  87% (402/462)   Receiving objects:  88% (407/462)   Receiving objects:  89% (412/462)   Receiving objects:  90% (416/462)   Receiving objects:  91% (421/462)   Receiving objects:  92% (426/462)   Receiving objects:  93% (430/462)   Receiving objects:  94% (435/462)   Receiving objects:  95% (439/462)   Receiving objects:  96% (444/462)   Receiving objects:  97% (449/462)   Receiving objects:  98% (453/462)   Receiving objects:  99% (458/462)   Receiving objects: 100% (462/462)   Receiving objects: 100% (462/462), 80.32 KiB | 501.00 KiB/s, done.
-Resolving deltas:   0% (0/360)   Resolving deltas:  16% (61/360)   Resolving deltas:  17% (62/360)   Resolving deltas:  19% (69/360)   Resolving deltas:  22% (80/360)   Resolving deltas:  24% (88/360)   Resolving deltas:  25% (92/360)   Resolving deltas:  28% (104/360)   Resolving deltas:  38% (138/360)   Resolving deltas:  49% (177/360)   Resolving deltas:  60% (216/360)   Resolving deltas: 100% (360/360)   Resolving deltas: 100% (360/360), completed with 3 local objects.
-From https://github.com/yufree/enviRSS
- * branch            master     -> FETCH_HEAD
-   97a4c80..d94b3db  master     -> origin/master
-Updating 97a4c80..d94b3db
-Fast-forward
- R/list.txt                    |  6 [32m+++[m[31m---[m
- content/post/2018-02-05-1.md  |  9 [32m+++++++++[m
- content/post/2018-02-05-10.md | 12 [32m++++++++++++[m
- content/post/2018-02-05-11.md | 12 [32m++++++++++++[m
- content/post/2018-02-05-12.md | 13 [32m+++++++++++++[m
- content/post/2018-02-05-2.md  |  9 [32m+++++++++[m
- content/post/2018-02-05-3.md  |  9 [32m+++++++++[m
- content/post/2018-02-05-4.md  | 11 [32m+++++++++++[m
- content/post/2018-02-05-5.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-05-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-05-7.md  | 12 [32m++++++++++++[m
- content/post/2018-02-05-8.md  | 12 [32m++++++++++++[m
- content/post/2018-02-05-9.md  | 14 [32m++++++++++++++[m
- content/post/2018-02-06-1.md  |  9 [32m+++++++++[m
- content/post/2018-02-06-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-06-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-07-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-07-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-07-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-07-4.md  | 12 [32m++++++++++++[m
- content/post/2018-02-07-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-07-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-08-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-4.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-7.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-8.md  | 12 [32m++++++++++++[m
- content/post/2018-02-08-9.md  |  9 [32m+++++++++[m
- content/post/2018-02-09-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-09-2.md  | 14 [32m++++++++++++++[m
- content/post/2018-02-09-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-09-4.md  | 12 [32m++++++++++++[m
- content/post/2018-02-09-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-09-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-09-7.md  | 12 [32m++++++++++++[m
- content/post/2018-02-09-8.md  | 12 [32m++++++++++++[m
- content/post/2018-02-09-9.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-12-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-12-10.md | 12 [32m++++++++++++[m
- content/post/2018-02-12-11.md |  8 [32m++++++++[m
- content/post/2018-02-12-12.md |  9 [32m+++++++++[m
- content/post/2018-02-12-2.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-12-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-12-4.md  | 11 [32m+++++++++++[m
- content/post/2018-02-12-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-12-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-12-7.md  | 12 [32m++++++++++++[m
- content/post/2018-02-12-8.md  | 12 [32m++++++++++++[m
- content/post/2018-02-12-9.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-13-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-13-10.md | 13 [32m+++++++++++++[m
- content/post/2018-02-13-11.md | 13 [32m+++++++++++++[m
- content/post/2018-02-13-12.md | 11 [32m+++++++++++[m
- content/post/2018-02-13-13.md | 12 [32m++++++++++++[m
- content/post/2018-02-13-2.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-13-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-13-4.md  | 12 [32m++++++++++++[m
- content/post/2018-02-13-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-13-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-13-7.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-13-8.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-13-9.md  | 12 [32m++++++++++++[m
- content/post/2018-02-14-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-14-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-14-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-14-4.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-14-5.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-14-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-15-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-15-10.md | 11 [32m+++++++++++[m
- content/post/2018-02-15-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-15-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-15-4.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-15-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-15-6.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-15-7.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-15-8.md  | 11 [32m+++++++++++[m
- content/post/2018-02-15-9.md  | 12 [32m++++++++++++[m
- content/post/2018-02-16-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-16-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-16-3.md  |  9 [32m+++++++++[m
- content/post/2018-02-19-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-19-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-19-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-19-4.md  | 12 [32m++++++++++++[m
- content/post/2018-02-20-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-20-2.md  | 11 [32m+++++++++++[m
- content/post/2018-02-20-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-20-4.md  | 11 [32m+++++++++++[m
- content/post/2018-02-20-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-20-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-21-1.md  | 14 [32m++++++++++++++[m
- content/post/2018-02-21-2.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-21-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-21-4.md  | 14 [32m++++++++++++++[m
- content/post/2018-02-21-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-21-6.md  | 11 [32m+++++++++++[m
- content/post/2018-02-21-7.md  | 11 [32m+++++++++++[m
- content/post/2018-02-22-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-22-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-22-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-22-4.md  | 12 [32m++++++++++++[m
- content/post/2018-02-22-5.md  | 12 [32m++++++++++++[m
- content/post/2018-02-22-6.md  | 12 [32m++++++++++++[m
- content/post/2018-02-23-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-23-2.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-23-3.md  | 12 [32m++++++++++++[m
- content/post/2018-02-26-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-26-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-26-3.md  | 11 [32m+++++++++++[m
- content/post/2018-02-26-4.md  |  8 [32m++++++++[m
- content/post/2018-02-26-5.md  |  8 [32m++++++++[m
- content/post/2018-02-26-6.md  |  9 [32m+++++++++[m
- content/post/2018-02-27-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-27-2.md  | 14 [32m++++++++++++++[m
- content/post/2018-02-27-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-02-28-1.md  | 12 [32m++++++++++++[m
- content/post/2018-02-28-2.md  | 12 [32m++++++++++++[m
- content/post/2018-02-28-3.md  | 14 [32m++++++++++++++[m
- content/post/2018-02-28-4.md  | 11 [32m+++++++++++[m
- content/post/2018-03-01-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-01-2.md  | 11 [32m+++++++++++[m
- content/post/2018-03-01-3.md  | 12 [32m++++++++++++[m
- content/post/2018-03-01-4.md  | 12 [32m++++++++++++[m
- content/post/2018-03-01-5.md  | 12 [32m++++++++++++[m
- content/post/2018-03-02-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-05-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-05-2.md  | 11 [32m+++++++++++[m
- content/post/2018-03-05-3.md  |  8 [32m++++++++[m
- content/post/2018-03-05-4.md  |  8 [32m++++++++[m
- content/post/2018-03-06-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-06-2.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-06-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-07-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-07-2.md  | 12 [32m++++++++++++[m
- content/post/2018-03-07-3.md  | 12 [32m++++++++++++[m
- content/post/2018-03-07-4.md  | 11 [32m+++++++++++[m
- content/post/2018-03-08-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-08-2.md  | 12 [32m++++++++++++[m
- content/post/2018-03-08-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-08-4.md  | 12 [32m++++++++++++[m
- content/post/2018-03-08-5.md  | 12 [32m++++++++++++[m
- content/post/2018-03-08-6.md  | 12 [32m++++++++++++[m
- content/post/2018-03-08-7.md  | 12 [32m++++++++++++[m
- content/post/2018-03-09-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-09-2.md  | 12 [32m++++++++++++[m
- content/post/2018-03-09-3.md  | 12 [32m++++++++++++[m
- content/post/2018-03-09-4.md  | 12 [32m++++++++++++[m
- content/post/2018-03-09-5.md  | 12 [32m++++++++++++[m
- content/post/2018-03-09-6.md  | 11 [32m+++++++++++[m
- content/post/2018-03-09-7.md  | 12 [32m++++++++++++[m
- content/post/2018-03-09-8.md  | 12 [32m++++++++++++[m
- content/post/2018-03-12-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-12-2.md  | 11 [32m+++++++++++[m
- content/post/2018-03-12-3.md  |  9 [32m+++++++++[m
- content/post/2018-03-13-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-13-2.md  | 12 [32m++++++++++++[m
- content/post/2018-03-13-3.md  | 11 [32m+++++++++++[m
- content/post/2018-03-13-4.md  | 12 [32m++++++++++++[m
- content/post/2018-03-13-5.md  | 12 [32m++++++++++++[m
- content/post/2018-03-13-6.md  | 12 [32m++++++++++++[m
- content/post/2018-03-14-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-14-10.md | 12 [32m++++++++++++[m
- content/post/2018-03-14-2.md  | 12 [32m++++++++++++[m
- content/post/2018-03-14-3.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-14-4.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-14-5.md  | 12 [32m++++++++++++[m
- content/post/2018-03-14-6.md  | 12 [32m++++++++++++[m
- content/post/2018-03-14-7.md  | 12 [32m++++++++++++[m
- content/post/2018-03-14-8.md  | 12 [32m++++++++++++[m
- content/post/2018-03-14-9.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-15-1.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-15-2.md  | 13 [32m+++++++++++++[m
- content/post/2018-03-15-3.md  | 12 [32m++++++++++++[m
- content/post/2018-03-15-4.md  | 12 [32m++++++++++++[m
- content/post/2018-03-15-5.md  | 12 [32m++++++++++++[m
- content/post/2018-03-15-6.md  |  9 [32m+++++++++[m
- content/post/2018-03-16-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-16-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-16-3.md  |  9 [32m+++++++++[m
- content/post/2018-03-16-4.md  | 11 [32m+++++++++++[m
- content/post/2018-03-19-1.md  | 12 [32m++++++++++++[m
- content/post/2018-03-19-2.md  | 12 [32m++++++++++++[m
- content/post/2018-03-19-3.md  | 12 [32m++++++++++++[m
- content/post/2018-03-19-4.md  | 10 [32m++++++++++[m
- content/post/2018-03-19-5.md  |  9 [32m+++++++++[m
- content/post/2018-03-20-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-20-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-20-3.md  | 11 [32m+++++++++++[m
- content/post/2018-03-21-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-21-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-21-3.md  | 10 [32m++++++++++[m
- content/post/2018-03-21-4.md  | 10 [32m++++++++++[m
- content/post/2018-03-21-5.md  | 10 [32m++++++++++[m
- content/post/2018-03-21-6.md  | 10 [32m++++++++++[m
- content/post/2018-03-21-7.md  | 11 [32m+++++++++++[m
- content/post/2018-03-21-8.md  | 10 [32m++++++++++[m
- content/post/2018-03-22-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-22-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-22-3.md  | 10 [32m++++++++++[m
- content/post/2018-03-22-4.md  | 10 [32m++++++++++[m
- content/post/2018-03-22-5.md  | 10 [32m++++++++++[m
- content/post/2018-03-22-6.md  | 11 [32m+++++++++++[m
- content/post/2018-03-23-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-23-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-23-3.md  | 11 [32m+++++++++++[m
- content/post/2018-03-23-4.md  | 11 [32m+++++++++++[m
- content/post/2018-03-26-1.md  |  9 [32m+++++++++[m
- content/post/2018-03-26-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-26-3.md  | 10 [32m++++++++++[m
- content/post/2018-03-26-4.md  | 10 [32m++++++++++[m
- content/post/2018-03-26-5.md  | 10 [32m++++++++++[m
- content/post/2018-03-26-6.md  |  9 [32m+++++++++[m
- content/post/2018-03-27-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-27-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-27-3.md  | 10 [32m++++++++++[m
- content/post/2018-03-27-4.md  |  9 [32m+++++++++[m
- content/post/2018-03-28-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-28-2.md  |  9 [32m+++++++++[m
- content/post/2018-03-28-3.md  | 11 [32m+++++++++++[m
- content/post/2018-03-28-4.md  | 11 [32m+++++++++++[m
- content/post/2018-03-28-5.md  | 10 [32m++++++++++[m
- content/post/2018-03-28-6.md  | 11 [32m+++++++++++[m
- content/post/2018-03-28-7.md  | 11 [32m+++++++++++[m
- content/post/2018-03-29-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-29-2.md  | 10 [32m++++++++++[m
- 229 files changed, 2636 insertions(+), 3 deletions(-)
- create mode 100644 content/post/2018-02-05-1.md
- create mode 100644 content/post/2018-02-05-10.md
- create mode 100644 content/post/2018-02-05-11.md
- create mode 100644 content/post/2018-02-05-12.md
- create mode 100644 content/post/2018-02-05-2.md
- create mode 100644 content/post/2018-02-05-3.md
- create mode 100644 content/post/2018-02-05-4.md
- create mode 100644 content/post/2018-02-05-5.md
- create mode 100644 content/post/2018-02-05-6.md
- create mode 100644 content/post/2018-02-05-7.md
- create mode 100644 content/post/2018-02-05-8.md
- create mode 100644 content/post/2018-02-05-9.md
- create mode 100644 content/post/2018-02-06-1.md
- create mode 100644 content/post/2018-02-06-2.md
- create mode 100644 content/post/2018-02-06-3.md
- create mode 100644 content/post/2018-02-07-1.md
- create mode 100644 content/post/2018-02-07-2.md
- create mode 100644 content/post/2018-02-07-3.md
- create mode 100644 content/post/2018-02-07-4.md
- create mode 100644 content/post/2018-02-07-5.md
- create mode 100644 content/post/2018-02-07-6.md
- create mode 100644 content/post/2018-02-08-1.md
- create mode 100644 content/post/2018-02-08-2.md
- create mode 100644 content/post/2018-02-08-3.md
- create mode 100644 content/post/2018-02-08-4.md
- create mode 100644 content/post/2018-02-08-5.md
- create mode 100644 content/post/2018-02-08-6.md
- create mode 100644 content/post/2018-02-08-7.md
- create mode 100644 content/post/2018-02-08-8.md
- create mode 100644 content/post/2018-02-08-9.md
- create mode 100644 content/post/2018-02-09-1.md
- create mode 100644 content/post/2018-02-09-2.md
- create mode 100644 content/post/2018-02-09-3.md
- create mode 100644 content/post/2018-02-09-4.md
- create mode 100644 content/post/2018-02-09-5.md
- create mode 100644 content/post/2018-02-09-6.md
- create mode 100644 content/post/2018-02-09-7.md
- create mode 100644 content/post/2018-02-09-8.md
- create mode 100644 content/post/2018-02-09-9.md
- create mode 100644 content/post/2018-02-12-1.md
- create mode 100644 content/post/2018-02-12-10.md
- create mode 100644 content/post/2018-02-12-11.md
- create mode 100644 content/post/2018-02-12-12.md
- create mode 100644 content/post/2018-02-12-2.md
- create mode 100644 content/post/2018-02-12-3.md
- create mode 100644 content/post/2018-02-12-4.md
- create mode 100644 content/post/2018-02-12-5.md
- create mode 100644 content/post/2018-02-12-6.md
- create mode 100644 content/post/2018-02-12-7.md
- create mode 100644 content/post/2018-02-12-8.md
- create mode 100644 content/post/2018-02-12-9.md
- create mode 100644 content/post/2018-02-13-1.md
- create mode 100644 content/post/2018-02-13-10.md
- create mode 100644 content/post/2018-02-13-11.md
- create mode 100644 content/post/2018-02-13-12.md
- create mode 100644 content/post/2018-02-13-13.md
- create mode 100644 content/post/2018-02-13-2.md
- create mode 100644 content/post/2018-02-13-3.md
- create mode 100644 content/post/2018-02-13-4.md
- create mode 100644 content/post/2018-02-13-5.md
- create mode 100644 content/post/2018-02-13-6.md
- create mode 100644 content/post/2018-02-13-7.md
- create mode 100644 content/post/2018-02-13-8.md
- create mode 100644 content/post/2018-02-13-9.md
- create mode 100644 content/post/2018-02-14-1.md
- create mode 100644 content/post/2018-02-14-2.md
- create mode 100644 content/post/2018-02-14-3.md
- create mode 100644 content/post/2018-02-14-4.md
- create mode 100644 content/post/2018-02-14-5.md
- create mode 100644 content/post/2018-02-14-6.md
- create mode 100644 content/post/2018-02-15-1.md
- create mode 100644 content/post/2018-02-15-10.md
- create mode 100644 content/post/2018-02-15-2.md
- create mode 100644 content/post/2018-02-15-3.md
- create mode 100644 content/post/2018-02-15-4.md
- create mode 100644 content/post/2018-02-15-5.md
- create mode 100644 content/post/2018-02-15-6.md
- create mode 100644 content/post/2018-02-15-7.md
- create mode 100644 content/post/2018-02-15-8.md
- create mode 100644 content/post/2018-02-15-9.md
- create mode 100644 content/post/2018-02-16-1.md
- create mode 100644 content/post/2018-02-16-2.md
- create mode 100644 content/post/2018-02-16-3.md
- create mode 100644 content/post/2018-02-19-1.md
- create mode 100644 content/post/2018-02-19-2.md
- create mode 100644 content/post/2018-02-19-3.md
- create mode 100644 content/post/2018-02-19-4.md
- create mode 100644 content/post/2018-02-20-1.md
- create mode 100644 content/post/2018-02-20-2.md
- create mode 100644 content/post/2018-02-20-3.md
- create mode 100644 content/post/2018-02-20-4.md
- create mode 100644 content/post/2018-02-20-5.md
- create mode 100644 content/post/2018-02-20-6.md
- create mode 100644 content/post/2018-02-21-1.md
- create mode 100644 content/post/2018-02-21-2.md
- create mode 100644 content/post/2018-02-21-3.md
- create mode 100644 content/post/2018-02-21-4.md
- create mode 100644 content/post/2018-02-21-5.md
- create mode 100644 content/post/2018-02-21-6.md
- create mode 100644 content/post/2018-02-21-7.md
- create mode 100644 content/post/2018-02-22-1.md
- create mode 100644 content/post/2018-02-22-2.md
- create mode 100644 content/post/2018-02-22-3.md
- create mode 100644 content/post/2018-02-22-4.md
- create mode 100644 content/post/2018-02-22-5.md
- create mode 100644 content/post/2018-02-22-6.md
- create mode 100644 content/post/2018-02-23-1.md
- create mode 100644 content/post/2018-02-23-2.md
- create mode 100644 content/post/2018-02-23-3.md
- create mode 100644 content/post/2018-02-26-1.md
- create mode 100644 content/post/2018-02-26-2.md
- create mode 100644 content/post/2018-02-26-3.md
- create mode 100644 content/post/2018-02-26-4.md
- create mode 100644 content/post/2018-02-26-5.md
- create mode 100644 content/post/2018-02-26-6.md
- create mode 100644 content/post/2018-02-27-1.md
- create mode 100644 content/post/2018-02-27-2.md
- create mode 100644 content/post/2018-02-27-3.md
- create mode 100644 content/post/2018-02-28-1.md
- create mode 100644 content/post/2018-02-28-2.md
- create mode 100644 content/post/2018-02-28-3.md
- create mode 100644 content/post/2018-02-28-4.md
- create mode 100644 content/post/2018-03-01-1.md
- create mode 100644 content/post/2018-03-01-2.md
- create mode 100644 content/post/2018-03-01-3.md
- create mode 100644 content/post/2018-03-01-4.md
- create mode 100644 content/post/2018-03-01-5.md
- create mode 100644 content/post/2018-03-02-1.md
- create mode 100644 content/post/2018-03-05-1.md
- create mode 100644 content/post/2018-03-05-2.md
- create mode 100644 content/post/2018-03-05-3.md
- create mode 100644 content/post/2018-03-05-4.md
- create mode 100644 content/post/2018-03-06-1.md
- create mode 100644 content/post/2018-03-06-2.md
- create mode 100644 content/post/2018-03-06-3.md
- create mode 100644 content/post/2018-03-07-1.md
- create mode 100644 content/post/2018-03-07-2.md
- create mode 100644 content/post/2018-03-07-3.md
- create mode 100644 content/post/2018-03-07-4.md
- create mode 100644 content/post/2018-03-08-1.md
- create mode 100644 content/post/2018-03-08-2.md
- create mode 100644 content/post/2018-03-08-3.md
- create mode 100644 content/post/2018-03-08-4.md
- create mode 100644 content/post/2018-03-08-5.md
- create mode 100644 content/post/2018-03-08-6.md
- create mode 100644 content/post/2018-03-08-7.md
- create mode 100644 content/post/2018-03-09-1.md
- create mode 100644 content/post/2018-03-09-2.md
- create mode 100644 content/post/2018-03-09-3.md
- create mode 100644 content/post/2018-03-09-4.md
- create mode 100644 content/post/2018-03-09-5.md
- create mode 100644 content/post/2018-03-09-6.md
- create mode 100644 content/post/2018-03-09-7.md
- create mode 100644 content/post/2018-03-09-8.md
- create mode 100644 content/post/2018-03-12-1.md
- create mode 100644 content/post/2018-03-12-2.md
- create mode 100644 content/post/2018-03-12-3.md
- create mode 100644 content/post/2018-03-13-1.md
- create mode 100644 content/post/2018-03-13-2.md
- create mode 100644 content/post/2018-03-13-3.md
- create mode 100644 content/post/2018-03-13-4.md
- create mode 100644 content/post/2018-03-13-5.md
- create mode 100644 content/post/2018-03-13-6.md
- create mode 100644 content/post/2018-03-14-1.md
- create mode 100644 content/post/2018-03-14-10.md
- create mode 100644 content/post/2018-03-14-2.md
- create mode 100644 content/post/2018-03-14-3.md
- create mode 100644 content/post/2018-03-14-4.md
- create mode 100644 content/post/2018-03-14-5.md
- create mode 100644 content/post/2018-03-14-6.md
- create mode 100644 content/post/2018-03-14-7.md
- create mode 100644 content/post/2018-03-14-8.md
- create mode 100644 content/post/2018-03-14-9.md
- create mode 100644 content/post/2018-03-15-1.md
- create mode 100644 content/post/2018-03-15-2.md
- create mode 100644 content/post/2018-03-15-3.md
- create mode 100644 content/post/2018-03-15-4.md
- create mode 100644 content/post/2018-03-15-5.md
- create mode 100644 content/post/2018-03-15-6.md
- create mode 100644 content/post/2018-03-16-1.md
- create mode 100644 content/post/2018-03-16-2.md
- create mode 100644 content/post/2018-03-16-3.md
- create mode 100644 content/post/2018-03-16-4.md
- create mode 100644 content/post/2018-03-19-1.md
- create mode 100644 content/post/2018-03-19-2.md
- create mode 100644 content/post/2018-03-19-3.md
- create mode 100644 content/post/2018-03-19-4.md
- create mode 100644 content/post/2018-03-19-5.md
- create mode 100644 content/post/2018-03-20-1.md
- create mode 100644 content/post/2018-03-20-2.md
- create mode 100644 content/post/2018-03-20-3.md
- create mode 100644 content/post/2018-03-21-1.md
- create mode 100644 content/post/2018-03-21-2.md
- create mode 100644 content/post/2018-03-21-3.md
- create mode 100644 content/post/2018-03-21-4.md
- create mode 100644 content/post/2018-03-21-5.md
- create mode 100644 content/post/2018-03-21-6.md
- create mode 100644 content/post/2018-03-21-7.md
- create mode 100644 content/post/2018-03-21-8.md
- create mode 100644 content/post/2018-03-22-1.md
- create mode 100644 content/post/2018-03-22-2.md
- create mode 100644 content/post/2018-03-22-3.md
- create mode 100644 content/post/2018-03-22-4.md
- create mode 100644 content/post/2018-03-22-5.md
- create mode 100644 content/post/2018-03-22-6.md
- create mode 100644 content/post/2018-03-23-1.md
- create mode 100644 content/post/2018-03-23-2.md
- create mode 100644 content/post/2018-03-23-3.md
- create mode 100644 content/post/2018-03-23-4.md
- create mode 100644 content/post/2018-03-26-1.md
- create mode 100644 content/post/2018-03-26-2.md
- create mode 100644 content/post/2018-03-26-3.md
- create mode 100644 content/post/2018-03-26-4.md
- create mode 100644 content/post/2018-03-26-5.md
- create mode 100644 content/post/2018-03-26-6.md
- create mode 100644 content/post/2018-03-27-1.md
- create mode 100644 content/post/2018-03-27-2.md
- create mode 100644 content/post/2018-03-27-3.md
- create mode 100644 content/post/2018-03-27-4.md
- create mode 100644 content/post/2018-03-28-1.md
- create mode 100644 content/post/2018-03-28-2.md
- create mode 100644 content/post/2018-03-28-3.md
- create mode 100644 content/post/2018-03-28-4.md
- create mode 100644 content/post/2018-03-28-5.md
- create mode 100644 content/post/2018-03-28-6.md
- create mode 100644 content/post/2018-03-28-7.md
- create mode 100644 content/post/2018-03-29-1.md
- create mode 100644 content/post/2018-03-29-2.md
-]0;~/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git pull origin master[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksh origin master
-Counting objects: 4, done.
-Delta compression using up to 4 threads.
-Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
-Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 357 bytes | 357.00 KiB/s, done.
-Total 4 (delta 2), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
-To https://github.com/yufree/enviRSS.git
-   d94b3db..5bebe5e  master -> master
-]0;~/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ python2 mummichog/mummichog-1.0.99/mummichog/main.py -f mummichog/day14.txt -o day14_1.0.9[2P7.txt -o day7_1.0.91.txt -o day1_1.0.9[A[1Pmummichog -f day14.txt -o day14
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P7.txt -o day71.txt -o day1[8Ppip install mummichogmummichog1 -f day14.txt -o day14 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P7.txt -o day7
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1.txt -o day1[5Ppip install --upgrade pip[3Pmummichog1mummichog1 -f myData.txt -o myRessult[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pcd mummichog/
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd mummichog/mummichog1 -f myData.txt -o myRessult[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Ppip install mummichog1
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C--upgrade pipmummichog1 -f day1.txt -o day17.txt -o day714.txt -o day14 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Ppip install mummichog
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmummichog -f day1.txt -o day17.txt -o day714.txt -o day14python2 mummichog/mummichog-1.0.99/mummichog/main.py -f mummichog/day1.txt -o day1_1.0.97.txt -o day7_1.0.914.txt -o day14_1.0.9[A[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit pull origin master
-remote: Counting objects: 196, done.[K
-remote: Compressing objects:   1% (1/68)   [Kremote: Compressing objects:   2% (2/68)   [Kremote: Compressing objects:   4% (3/68)   [Kremote: Compressing objects:   5% (4/68)   [Kremote: Compressing objects:   7% (5/68)   [Kremote: Compressing objects:   8% (6/68)   [Kremote: Compressing objects:  10% (7/68)   [Kremote: Compressing objects:  11% (8/68)   [Kremote: Compressing objects:  13% (9/68)   [Kremote: Compressing objects:  14% (10/68)   [Kremote: Compressing objects:  16% (11/68)   [Kremote: Compressing objects:  17% (12/68)   [Kremote: Compressing objects:  19% (13/68)   [Kremote: Compressing objects:  20% (14/68)   [Kremote: Compressing objects:  22% (15/68)   [Kremote: Compressing objects:  23% (16/68)   [Kremote: Compressing objects:  25% (17/68)   [Kremote: Compressing objects:  26% (18/68)   [Kremote: Compressing objects:  27% (19/68)   [Kremote: Compressing objects:  29% (20/68)   [Kremote: Compressing objects:  30% (21/68)   [Kremote: Compressing objects:  32% (22/68)   [Kremote: Compressing objects:  33% (23/68)   [Kremote: Compressing objects:  35% (24/68)   [Kremote: Compressing objects:  36% (25/68)   [Kremote: Compressing objects:  38% (26/68)   [Kremote: Compressing objects:  39% (27/68)   [Kremote: Compressing objects:  41% (28/68)   [Kremote: Compressing objects:  42% (29/68)   [Kremote: Compressing objects:  44% (30/68)   [Kremote: Compressing objects:  45% (31/68)   [Kremote: Compressing objects:  47% (32/68)   [Kremote: Compressing objects:  48% (33/68)   [Kremote: Compressing objects:  50% (34/68)   [Kremote: Compressing objects:  51% (35/68)   [Kremote: Compressing objects:  52% (36/68)   [Kremote: Compressing objects:  54% (37/68)   [Kremote: Compressing objects:  55% (38/68)   [Kremote: Compressing objects:  57% (39/68)   [Kremote: Compressing objects:  58% (40/68)   [Kremote: Compressing objects:  60% (41/68)   [Kremote: Compressing objects:  61% (42/68)   [Kremote: Compressing objects:  63% (43/68)   [Kremote: Compressing objects:  64% (44/68)   [Kremote: Compressing objects:  66% (45/68)   [Kremote: Compressing objects:  67% (46/68)   [Kremote: Compressing objects:  69% (47/68)   [Kremote: Compressing objects:  70% (48/68)   [Kremote: Compressing objects:  72% (49/68)   [Kremote: Compressing objects:  73% (50/68)   [Kremote: Compressing objects:  75% (51/68)   [Kremote: Compressing objects:  76% (52/68)   [Kremote: Compressing objects:  77% (53/68)   [Kremote: Compressing objects:  79% (54/68)   [Kremote: Compressing objects:  80% (55/68)   [Kremote: Compressing objects:  82% (56/68)   [Kremote: Compressing objects:  83% (57/68)   [Kremote: Compressing objects:  85% (58/68)   [Kremote: Compressing objects:  86% (59/68)   [Kremote: Compressing objects:  88% (60/68)   [Kremote: Compressing objects:  89% (61/68)   [Kremote: Compressing objects:  91% (62/68)   [Kremote: Compressing objects:  92% (63/68)   [Kremote: Compressing objects:  94% (64/68)   [Kremote: Compressing objects:  95% (65/68)   [Kremote: Compressing objects:  97% (66/68)   [Kremote: Compressing objects:  98% (67/68)   [Kremote: Compressing objects: 100% (68/68)   [Kremote: Compressing objects: 100% (68/68), done.[K
-remote: Total 196 (delta 162), reused 162 (delta 128), pack-reused 0[K
-Receiving objects:   0% (1/196)   Receiving objects:   1% (2/196)   Receiving objects:   2% (4/196)   Receiving objects:   3% (6/196)   Receiving objects:   4% (8/196)   Receiving objects:   5% (10/196)   Receiving objects:   6% (12/196)   Receiving objects:   7% (14/196)   Receiving objects:   8% (16/196)   Receiving objects:   9% (18/196)   Receiving objects:  10% (20/196)   Receiving objects:  11% (22/196)   Receiving objects:  12% (24/196)   Receiving objects:  13% (26/196)   Receiving objects:  14% (28/196)   Receiving objects:  15% (30/196)   Receiving objects:  16% (32/196)   Receiving objects:  17% (34/196)   Receiving objects:  18% (36/196)   Receiving objects:  19% (38/196)   Receiving objects:  20% (40/196)   Receiving objects:  21% (42/196)   Receiving objects:  22% (44/196)   Receiving objects:  23% (46/196)   Receiving objects:  24% (48/196)   Receiving objects:  25% (49/196)   Receiving objects:  26% (51/196)   Receiving objects:  27% (53/196)   Receiving objects:  28% (55/196)   Receiving objects:  29% (57/196)   Receiving objects:  30% (59/196)   Receiving objects:  31% (61/196)   Receiving objects:  32% (63/196)   Receiving objects:  33% (65/196)   Receiving objects:  34% (67/196)   Receiving objects:  35% (69/196)   Receiving objects:  36% (71/196)   Receiving objects:  37% (73/196)   Receiving objects:  38% (75/196)   Receiving objects:  39% (77/196)   Receiving objects:  40% (79/196)   Receiving objects:  41% (81/196)   Receiving objects:  42% (83/196)   Receiving objects:  43% (85/196)   Receiving objects:  44% (87/196)   Receiving objects:  45% (89/196)   Receiving objects:  46% (91/196)   Receiving objects:  47% (93/196)   Receiving objects:  48% (95/196)   Receiving objects:  49% (97/196)   Receiving objects:  50% (98/196)   Receiving objects:  51% (100/196)   Receiving objects:  52% (102/196)   Receiving objects:  53% (104/196)   Receiving objects:  54% (106/196)   Receiving objects:  55% (108/196)   Receiving objects:  56% (110/196)   Receiving objects:  57% (112/196)   Receiving objects:  58% (114/196)   Receiving objects:  59% (116/196)   Receiving objects:  60% (118/196)   Receiving objects:  61% (120/196)   Receiving objects:  62% (122/196)   Receiving objects:  63% (124/196)   Receiving objects:  64% (126/196)   Receiving objects:  65% (128/196)   Receiving objects:  66% (130/196)   Receiving objects:  67% (132/196)   Receiving objects:  68% (134/196)   Receiving objects:  69% (136/196)   Receiving objects:  70% (138/196)   Receiving objects:  71% (140/196)   Receiving objects:  72% (142/196)   Receiving objects:  73% (144/196)   Receiving objects:  74% (146/196)   Receiving objects:  75% (147/196)   Receiving objects:  76% (149/196)   Receiving objects:  77% (151/196)   Receiving objects:  78% (153/196)   Receiving objects:  79% (155/196)   Receiving objects:  80% (157/196)   Receiving objects:  81% (159/196)   Receiving objects:  82% (161/196)   Receiving objects:  83% (163/196)   Receiving objects:  84% (165/196)   Receiving objects:  85% (167/196)   Receiving objects:  86% (169/196)   Receiving objects:  87% (171/196)   Receiving objects:  88% (173/196)   Receiving objects:  89% (175/196)   Receiving objects:  90% (177/196)   Receiving objects:  91% (179/196)   Receiving objects:  92% (181/196)   Receiving objects:  93% (183/196)   Receiving objects:  94% (185/196)   Receiving objects:  95% (187/196)   Receiving objects:  96% (189/196)   Receiving objects:  97% (191/196)   Receiving objects:  98% (193/196)   Receiving objects:  99% (195/196)   Receiving objects: 100% (196/196)   Receiving objects: 100% (196/196), 32.43 KiB | 217.00 KiB/s, done.
-Resolving deltas:   0% (0/162)   Resolving deltas:  44% (72/162)   Resolving deltas:  60% (98/162)   Resolving deltas:  70% (114/162)   Resolving deltas:  80% (130/162)   Resolving deltas:  90% (146/162)   Resolving deltas: 100% (162/162)   Resolving deltas: 100% (162/162), completed with 4 local objects.
-From https://github.com/yufree/enviRSS
- * branch            master     -> FETCH_HEAD
-   5bebe5e..7a5846c  master     -> origin/master
-Updating 5bebe5e..7a5846c
-Fast-forward
- R/list.txt                    |  4 [32m++[m[31m--[m
- content/post/2018-03-31-1.md  | 10 [32m++++++++++[m
- content/post/2018-03-31-2.md  | 10 [32m++++++++++[m
- content/post/2018-03-31-3.md  |  9 [32m+++++++++[m
- content/post/2018-03-31-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-03-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-03-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-03-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-03-4.md  | 11 [32m+++++++++++[m
- content/post/2018-04-03-5.md  | 10 [32m++++++++++[m
- content/post/2018-04-03-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-04-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-04-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-04-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-04-4.md  |  9 [32m+++++++++[m
- content/post/2018-04-04-5.md  | 10 [32m++++++++++[m
- content/post/2018-04-04-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-04-7.md  | 10 [32m++++++++++[m
- content/post/2018-04-04-8.md  | 11 [32m+++++++++++[m
- content/post/2018-04-04-9.md  | 10 [32m++++++++++[m
- content/post/2018-04-05-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-05-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-05-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-05-4.md  | 11 [32m+++++++++++[m
- content/post/2018-04-05-5.md  | 10 [32m++++++++++[m
- content/post/2018-04-05-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-10.md | 10 [32m++++++++++[m
- content/post/2018-04-06-11.md |  9 [32m+++++++++[m
- content/post/2018-04-06-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-5.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-7.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-8.md  | 10 [32m++++++++++[m
- content/post/2018-04-06-9.md  | 10 [32m++++++++++[m
- content/post/2018-04-09-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-09-10.md | 10 [32m++++++++++[m
- content/post/2018-04-09-11.md | 10 [32m++++++++++[m
- content/post/2018-04-09-12.md | 10 [32m++++++++++[m
- content/post/2018-04-09-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-09-3.md  |  9 [32m+++++++++[m
- content/post/2018-04-09-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-09-5.md  | 11 [32m+++++++++++[m
- content/post/2018-04-09-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-09-7.md  | 10 [32m++++++++++[m
- content/post/2018-04-09-8.md  | 10 [32m++++++++++[m
- content/post/2018-04-09-9.md  | 10 [32m++++++++++[m
- content/post/2018-04-10-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-10-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-10-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-10-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-10-5.md  | 10 [32m++++++++++[m
- content/post/2018-04-10-6.md  | 11 [32m+++++++++++[m
- content/post/2018-04-11-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-11-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-11-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-11-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-11-5.md  |  9 [32m+++++++++[m
- content/post/2018-04-11-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-11-7.md  | 10 [32m++++++++++[m
- content/post/2018-04-11-8.md  | 11 [32m+++++++++++[m
- content/post/2018-04-12-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-12-2.md  | 11 [32m+++++++++++[m
- content/post/2018-04-12-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-12-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-12-5.md  | 10 [32m++++++++++[m
- content/post/2018-04-12-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-12-7.md  | 10 [32m++++++++++[m
- content/post/2018-04-12-8.md  | 10 [32m++++++++++[m
- content/post/2018-04-13-1.md  | 11 [32m+++++++++++[m
- content/post/2018-04-13-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-13-3.md  | 11 [32m+++++++++++[m
- content/post/2018-04-13-4.md  | 11 [32m+++++++++++[m
- content/post/2018-04-15-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-16-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-16-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-16-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-16-4.md  | 11 [32m+++++++++++[m
- content/post/2018-04-16-5.md  | 11 [32m+++++++++++[m
- content/post/2018-04-16-6.md  | 11 [32m+++++++++++[m
- content/post/2018-04-16-7.md  | 11 [32m+++++++++++[m
- content/post/2018-04-16-8.md  | 10 [32m++++++++++[m
- content/post/2018-04-16-9.md  | 10 [32m++++++++++[m
- content/post/2018-04-17-1.md  | 11 [32m+++++++++++[m
- content/post/2018-04-17-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-17-3.md  | 10 [32m++++++++++[m
- content/post/2018-04-17-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-17-5.md  | 10 [32m++++++++++[m
- content/post/2018-04-17-6.md  | 10 [32m++++++++++[m
- content/post/2018-04-18-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-18-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-18-3.md  | 12 [32m++++++++++++[m
- content/post/2018-04-19-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-19-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-19-3.md  |  9 [32m+++++++++[m
- content/post/2018-04-19-4.md  | 10 [32m++++++++++[m
- content/post/2018-04-20-1.md  | 10 [32m++++++++++[m
- content/post/2018-04-20-2.md  | 10 [32m++++++++++[m
- content/post/2018-04-20-3.md  | 11 [32m+++++++++++[m
- 101 files changed, 1014 insertions(+), 2 deletions(-)
- create mode 100644 content/post/2018-03-31-1.md
- create mode 100644 content/post/2018-03-31-2.md
- create mode 100644 content/post/2018-03-31-3.md
- create mode 100644 content/post/2018-03-31-4.md
- create mode 100644 content/post/2018-04-03-1.md
- create mode 100644 content/post/2018-04-03-2.md
- create mode 100644 content/post/2018-04-03-3.md
- create mode 100644 content/post/2018-04-03-4.md
- create mode 100644 content/post/2018-04-03-5.md
- create mode 100644 content/post/2018-04-03-6.md
- create mode 100644 content/post/2018-04-04-1.md
- create mode 100644 content/post/2018-04-04-2.md
- create mode 100644 content/post/2018-04-04-3.md
- create mode 100644 content/post/2018-04-04-4.md
- create mode 100644 content/post/2018-04-04-5.md
- create mode 100644 content/post/2018-04-04-6.md
- create mode 100644 content/post/2018-04-04-7.md
- create mode 100644 content/post/2018-04-04-8.md
- create mode 100644 content/post/2018-04-04-9.md
- create mode 100644 content/post/2018-04-05-1.md
- create mode 100644 content/post/2018-04-05-2.md
- create mode 100644 content/post/2018-04-05-3.md
- create mode 100644 content/post/2018-04-05-4.md
- create mode 100644 content/post/2018-04-05-5.md
- create mode 100644 content/post/2018-04-05-6.md
- create mode 100644 content/post/2018-04-06-1.md
- create mode 100644 content/post/2018-04-06-10.md
- create mode 100644 content/post/2018-04-06-11.md
- create mode 100644 content/post/2018-04-06-2.md
- create mode 100644 content/post/2018-04-06-3.md
- create mode 100644 content/post/2018-04-06-4.md
- create mode 100644 content/post/2018-04-06-5.md
- create mode 100644 content/post/2018-04-06-6.md
- create mode 100644 content/post/2018-04-06-7.md
- create mode 100644 content/post/2018-04-06-8.md
- create mode 100644 content/post/2018-04-06-9.md
- create mode 100644 content/post/2018-04-09-1.md
- create mode 100644 content/post/2018-04-09-10.md
- create mode 100644 content/post/2018-04-09-11.md
- create mode 100644 content/post/2018-04-09-12.md
- create mode 100644 content/post/2018-04-09-2.md
- create mode 100644 content/post/2018-04-09-3.md
- create mode 100644 content/post/2018-04-09-4.md
- create mode 100644 content/post/2018-04-09-5.md
- create mode 100644 content/post/2018-04-09-6.md
- create mode 100644 content/post/2018-04-09-7.md
- create mode 100644 content/post/2018-04-09-8.md
- create mode 100644 content/post/2018-04-09-9.md
- create mode 100644 content/post/2018-04-10-1.md
- create mode 100644 content/post/2018-04-10-2.md
- create mode 100644 content/post/2018-04-10-3.md
- create mode 100644 content/post/2018-04-10-4.md
- create mode 100644 content/post/2018-04-10-5.md
- create mode 100644 content/post/2018-04-10-6.md
- create mode 100644 content/post/2018-04-11-1.md
- create mode 100644 content/post/2018-04-11-2.md
- create mode 100644 content/post/2018-04-11-3.md
- create mode 100644 content/post/2018-04-11-4.md
- create mode 100644 content/post/2018-04-11-5.md
- create mode 100644 content/post/2018-04-11-6.md
- create mode 100644 content/post/2018-04-11-7.md
- create mode 100644 content/post/2018-04-11-8.md
- create mode 100644 content/post/2018-04-12-1.md
- create mode 100644 content/post/2018-04-12-2.md
- create mode 100644 content/post/2018-04-12-3.md
- create mode 100644 content/post/2018-04-12-4.md
- create mode 100644 content/post/2018-04-12-5.md
- create mode 100644 content/post/2018-04-12-6.md
- create mode 100644 content/post/2018-04-12-7.md
- create mode 100644 content/post/2018-04-12-8.md
- create mode 100644 content/post/2018-04-13-1.md
- create mode 100644 content/post/2018-04-13-2.md
- create mode 100644 content/post/2018-04-13-3.md
- create mode 100644 content/post/2018-04-13-4.md
- create mode 100644 content/post/2018-04-15-1.md
- create mode 100644 content/post/2018-04-16-1.md
- create mode 100644 content/post/2018-04-16-2.md
- create mode 100644 content/post/2018-04-16-3.md
- create mode 100644 content/post/2018-04-16-4.md
- create mode 100644 content/post/2018-04-16-5.md
- create mode 100644 content/post/2018-04-16-6.md
- create mode 100644 content/post/2018-04-16-7.md
- create mode 100644 content/post/2018-04-16-8.md
- create mode 100644 content/post/2018-04-16-9.md
- create mode 100644 content/post/2018-04-17-1.md
- create mode 100644 content/post/2018-04-17-2.md
- create mode 100644 content/post/2018-04-17-3.md
- create mode 100644 content/post/2018-04-17-4.md
- create mode 100644 content/post/2018-04-17-5.md
- create mode 100644 content/post/2018-04-17-6.md
- create mode 100644 content/post/2018-04-18-1.md
- create mode 100644 content/post/2018-04-18-2.md
- create mode 100644 content/post/2018-04-18-3.md
- create mode 100644 content/post/2018-04-19-1.md
- create mode 100644 content/post/2018-04-19-2.md
- create mode 100644 content/post/2018-04-19-3.md
- create mode 100644 content/post/2018-04-19-4.md
- create mode 100644 content/post/2018-04-20-1.md
- create mode 100644 content/post/2018-04-20-2.md
- create mode 100644 content/post/2018-04-20-3.md
-]0;~/Box Sync/blog/enviRSS[?1034hyumiaodeMacBook-Pro:enviRSS yufree$ python toy.py [5@drugbank[C[C[C[C[5Ptoy[C[C[C[C[5@drugbank[C[C[C[C[5Ptoy[C[C[C[C[Kgit pull
-remote: Enumerating objects: 1234, done.[K
-remote: Counting objects:   0% (1/1234)   [Kremote: Counting objects:   1% (13/1234)   [Kremote: Counting objects:   2% (25/1234)   [Kremote: Counting objects:   3% (38/1234)   [Kremote: Counting objects:   4% (50/1234)   [Kremote: Counting objects:   5% (62/1234)   [Kremote: Counting objects:   6% (75/1234)   [Kremote: Counting objects:   7% (87/1234)   [Kremote: Counting objects:   8% (99/1234)   [Kremote: Counting objects:   9% (112/1234)   [Kremote: Counting objects:  10% (124/1234)   [Kremote: Counting objects:  11% (136/1234)   [Kremote: Counting objects:  12% (149/1234)   [Kremote: Counting objects:  13% (161/1234)   [Kremote: Counting objects:  14% (173/1234)   [Kremote: Counting objects:  15% (186/1234)   [Kremote: Counting objects:  16% (198/1234)   [Kremote: Counting objects:  17% (210/1234)   [Kremote: Counting objects:  18% (223/1234)   [Kremote: Counting objects:  19% (235/1234)   [Kremote: Counting objects:  20% (247/1234)   [Kremote: Counting objects:  21% (260/1234)   [Kremote: Counting objects:  22% (272/1234)   [Kremote: Counting objects:  23% (284/1234)   [Kremote: Counting objects:  24% (297/1234)   [Kremote: Counting objects:  25% (309/1234)   [Kremote: Counting objects:  26% (321/1234)   [Kremote: Counting objects:  27% (334/1234)   [Kremote: Counting objects:  28% (346/1234)   [Kremote: Counting objects:  29% (358/1234)   [Kremote: Counting objects:  30% (371/1234)   [Kremote: Counting objects:  31% (383/1234)   [Kremote: Counting objects:  32% (395/1234)   [Kremote: Counting objects:  33% (408/1234)   [Kremote: Counting objects:  34% (420/1234)   [Kremote: Counting objects:  35% (432/1234)   [Kremote: Counting objects:  36% (445/1234)   [Kremote: Counting objects:  37% (457/1234)   [Kremote: Counting objects:  38% (469/1234)   [Kremote: Counting objects:  39% (482/1234)   [Kremote: Counting objects:  40% (494/1234)   [Kremote: Counting objects:  41% (506/1234)   [Kremote: Counting objects:  42% (519/1234)   [Kremote: Counting objects:  43% (531/1234)   [Kremote: Counting objects:  44% (543/1234)   [Kremote: Counting objects:  45% (556/1234)   [Kremote: Counting objects:  46% (568/1234)   [Kremote: Counting objects:  47% (580/1234)   [Kremote: Counting objects:  48% (593/1234)   [Kremote: Counting objects:  49% (605/1234)   [Kremote: Counting objects:  50% (617/1234)   [Kremote: Counting objects:  51% (630/1234)   [Kremote: Counting objects:  52% (642/1234)   [Kremote: Counting objects:  53% (655/1234)   [Kremote: Counting objects:  54% (667/1234)   [Kremote: Counting objects:  55% (679/1234)   [Kremote: Counting objects:  56% (692/1234)   [Kremote: Counting objects:  57% (704/1234)   [Kremote: Counting objects:  58% (716/1234)   [Kremote: Counting objects:  59% (729/1234)   [Kremote: Counting objects:  60% (741/1234)   [Kremote: Counting objects:  61% (753/1234)   [Kremote: Counting objects:  62% (766/1234)   [Kremote: Counting objects:  63% (778/1234)   [Kremote: Counting objects:  64% (790/1234)   [Kremote: Counting objects:  65% (803/1234)   [Kremote: Counting objects:  66% (815/1234)   [Kremote: Counting objects:  67% (827/1234)   [Kremote: Counting objects:  68% (840/1234)   [Kremote: Counting objects:  69% (852/1234)   [Kremote: Counting objects:  70% (864/1234)   [Kremote: Counting objects:  71% (877/1234)   [Kremote: Counting objects:  72% (889/1234)   [Kremote: Counting objects:  73% (901/1234)   [Kremote: Counting objects:  74% (914/1234)   [Kremote: Counting objects:  75% (926/1234)   [Kremote: Counting objects:  76% (938/1234)   [Kremote: Counting objects:  77% (951/1234)   [Kremote: Counting objects:  78% (963/1234)   [Kremote: Counting objects:  79% (975/1234)   [Kremote: Counting objects:  80% (988/1234)   [Kremote: Counting objects:  81% (1000/1234)   [Kremote: Counting objects:  82% (1012/1234)   [Kremote: Counting objects:  83% (1025/1234)   [Kremote: Counting objects:  84% (1037/1234)   [Kremote: Counting objects:  85% (1049/1234)   [Kremote: Counting objects:  86% (1062/1234)   [Kremote: Counting objects:  87% (1074/1234)   [Kremote: Counting objects:  88% (1086/1234)   [Kremote: Counting objects:  89% (1099/1234)   [Kremote: Counting objects:  90% (1111/1234)   [Kremote: Counting objects:  91% (1123/1234)   [Kremote: Counting objects:  92% (1136/1234)   [Kremote: Counting objects:  93% (1148/1234)   [Kremote: Counting objects:  94% (1160/1234)   [Kremote: Counting objects:  95% (1173/1234)   [Kremote: Counting objects:  96% (1185/1234)   [Kremote: Counting objects:  97% (1197/1234)   [Kremote: Counting objects:  98% (1210/1234)   [Kremote: Counting objects:  99% (1222/1234)   [Kremote: Counting objects: 100% (1234/1234)   [Kremote: Counting objects: 100% (1234/1234), done.[K
-remote: Compressing objects:   1% (1/77)   [Kremote: Compressing objects:   2% (2/77)   [Kremote: Compressing objects:   3% (3/77)   [Kremote: Compressing objects:   5% (4/77)   [Kremote: Compressing objects:   6% (5/77)   [Kremote: Compressing objects:   7% (6/77)   [Kremote: Compressing objects:   9% (7/77)   [Kremote: Compressing objects:  10% (8/77)   [Kremote: Compressing objects:  11% (9/77)   [Kremote: Compressing objects:  12% (10/77)   [Kremote: Compressing objects:  14% (11/77)   [Kremote: Compressing objects:  15% (12/77)   [Kremote: Compressing objects:  16% (13/77)   [Kremote: Compressing objects:  18% (14/77)   [Kremote: Compressing objects:  19% (15/77)   [Kremote: Compressing objects:  20% (16/77)   [Kremote: Compressing objects:  22% (17/77)   [Kremote: Compressing objects:  23% (18/77)   [Kremote: Compressing objects:  24% (19/77)   [Kremote: Compressing objects:  25% (20/77)   [Kremote: Compressing objects:  27% (21/77)   [Kremote: Compressing objects:  28% (22/77)   [Kremote: Compressing objects:  29% (23/77)   [Kremote: Compressing objects:  31% (24/77)   [Kremote: Compressing objects:  32% (25/77)   [Kremote: Compressing objects:  33% (26/77)   [Kremote: Compressing objects:  35% (27/77)   [Kremote: Compressing objects:  36% (28/77)   [Kremote: Compressing objects:  37% (29/77)   [Kremote: Compressing objects:  38% (30/77)   [Kremote: Compressing objects:  40% (31/77)   [Kremote: Compressing objects:  41% (32/77)   [Kremote: Compressing objects:  42% (33/77)   [Kremote: Compressing objects:  44% (34/77)   [Kremote: Compressing objects:  45% (35/77)   [Kremote: Compressing objects:  46% (36/77)   [Kremote: Compressing objects:  48% (37/77)   [Kremote: Compressing objects:  49% (38/77)   [Kremote: Compressing objects:  50% (39/77)   [Kremote: Compressing objects:  51% (40/77)   [Kremote: Compressing objects:  53% (41/77)   [Kremote: Compressing objects:  54% (42/77)   [Kremote: Compressing objects:  55% (43/77)   [Kremote: Compressing objects:  57% (44/77)   [Kremote: Compressing objects:  58% (45/77)   [Kremote: Compressing objects:  59% (46/77)   [Kremote: Compressing objects:  61% (47/77)   [Kremote: Compressing objects:  62% (48/77)   [Kremote: Compressing objects:  63% (49/77)   [Kremote: Compressing objects:  64% (50/77)   [Kremote: Compressing objects:  66% (51/77)   [Kremote: Compressing objects:  67% (52/77)   [Kremote: Compressing objects:  68% (53/77)   [Kremote: Compressing objects:  70% (54/77)   [Kremote: Compressing objects:  71% (55/77)   [Kremote: Compressing objects:  72% (56/77)   [Kremote: Compressing objects:  74% (57/77)   [Kremote: Compressing objects:  75% (58/77)   [Kremote: Compressing objects:  76% (59/77)   [Kremote: Compressing objects:  77% (60/77)   [Kremote: Compressing objects:  79% (61/77)   [Kremote: Compressing objects:  80% (62/77)   [Kremote: Compressing objects:  81% (63/77)   [Kremote: Compressing objects:  83% (64/77)   [Kremote: Compressing objects:  84% (65/77)   [Kremote: Compressing objects:  85% (66/77)   [Kremote: Compressing objects:  87% (67/77)   [Kremote: Compressing objects:  88% (68/77)   [Kremote: Compressing objects:  89% (69/77)   [Kremote: Compressing objects:  90% (70/77)   [Kremote: Compressing objects:  92% (71/77)   [Kremote: Compressing objects:  93% (72/77)   [Kremote: Compressing objects:  94% (73/77)   [Kremote: Compressing objects:  96% (74/77)   [Kremote: Compressing objects:  97% (75/77)   [Kremote: Compressing objects:  98% (76/77)   [Kremote: Compressing objects: 100% (77/77)   [Kremote: Compressing objects: 100% (77/77), done.[K
-Receiving objects:   0% (1/1632)   Receiving objects:   1% (17/1632)   Receiving objects:   2% (33/1632)   Receiving objects:   3% (49/1632)   Receiving objects:   4% (66/1632)   Receiving objects:   5% (82/1632)   Receiving objects:   6% (98/1632)   Receiving objects:   7% (115/1632)   Receiving objects:   8% (131/1632)   Receiving objects:   9% (147/1632)   Receiving objects:  10% (164/1632)   Receiving objects:  11% (180/1632)   Receiving objects:  12% (196/1632)   Receiving objects:  13% (213/1632)   Receiving objects:  14% (229/1632)   Receiving objects:  15% (245/1632)   Receiving objects:  16% (262/1632)   Receiving objects:  17% (278/1632)   Receiving objects:  18% (294/1632)   Receiving objects:  19% (311/1632)   Receiving objects:  20% (327/1632)   Receiving objects:  21% (343/1632)   Receiving objects:  22% (360/1632)   Receiving objects:  23% (376/1632)   Receiving objects:  24% (392/1632)   Receiving objects:  25% (408/1632)   Receiving objects:  26% (425/1632)   Receiving objects:  27% (441/1632)   Receiving objects:  28% (457/1632)   Receiving objects:  29% (474/1632)   Receiving objects:  30% (490/1632)   Receiving objects:  31% (506/1632)   Receiving objects:  32% (523/1632)   Receiving objects:  33% (539/1632)   Receiving objects:  34% (555/1632)   Receiving objects:  35% (572/1632)   Receiving objects:  36% (588/1632)   Receiving objects:  37% (604/1632)   Receiving objects:  38% (621/1632)   Receiving objects:  39% (637/1632)   Receiving objects:  40% (653/1632)   Receiving objects:  41% (670/1632)   Receiving objects:  42% (686/1632)   Receiving objects:  43% (702/1632)   Receiving objects:  44% (719/1632)   Receiving objects:  45% (735/1632)   Receiving objects:  46% (751/1632)   Receiving objects:  47% (768/1632)   Receiving objects:  48% (784/1632)   Receiving objects:  49% (800/1632)   Receiving objects:  50% (816/1632)   Receiving objects:  51% (833/1632)   Receiving objects:  52% (849/1632)   Receiving objects:  53% (865/1632)   Receiving objects:  54% (882/1632)   Receiving objects:  55% (898/1632)   Receiving objects:  56% (914/1632)   Receiving objects:  57% (931/1632)   Receiving objects:  58% (947/1632)   Receiving objects:  59% (963/1632)   Receiving objects:  60% (980/1632)   Receiving objects:  61% (996/1632)   Receiving objects:  62% (1012/1632)   Receiving objects:  63% (1029/1632)   Receiving objects:  64% (1045/1632)   Receiving objects:  65% (1061/1632)   Receiving objects:  66% (1078/1632)   Receiving objects:  67% (1094/1632)   Receiving objects:  68% (1110/1632)   Receiving objects:  69% (1127/1632)   Receiving objects:  70% (1143/1632)   Receiving objects:  71% (1159/1632)   Receiving objects:  72% (1176/1632)   Receiving objects:  73% (1192/1632)   Receiving objects:  74% (1208/1632)   Receiving objects:  75% (1224/1632)   Receiving objects:  76% (1241/1632)   Receiving objects:  77% (1257/1632)   Receiving objects:  78% (1273/1632)   Receiving objects:  79% (1290/1632)   Receiving objects:  80% (1306/1632)   Receiving objects:  81% (1322/1632)   Receiving objects:  82% (1339/1632)   Receiving objects:  83% (1355/1632)   remote: Total 1632 (delta 1195), reused 1195 (delta 1157), pack-reused 398[K
-Receiving objects:  84% (1371/1632)   Receiving objects:  85% (1388/1632)   Receiving objects:  86% (1404/1632)   Receiving objects:  87% (1420/1632)   Receiving objects:  88% (1437/1632)   Receiving objects:  89% (1453/1632)   Receiving objects:  90% (1469/1632)   Receiving objects:  91% (1486/1632)   Receiving objects:  92% (1502/1632)   Receiving objects:  93% (1518/1632)   Receiving objects:  94% (1535/1632)   Receiving objects:  95% (1551/1632)   Receiving objects:  96% (1567/1632)   Receiving objects:  97% (1584/1632)   Receiving objects:  98% (1600/1632)   Receiving objects:  99% (1616/1632)   Receiving objects: 100% (1632/1632)   Receiving objects: 100% (1632/1632), 318.64 KiB | 1.58 MiB/s, done.
-Resolving deltas:   0% (0/1365)   Resolving deltas:   7% (103/1365)   Resolving deltas:   9% (126/1365)   Resolving deltas:  16% (219/1365)   Resolving deltas:  22% (307/1365)   Resolving deltas:  24% (329/1365)   Resolving deltas:  30% (417/1365)   Resolving deltas:  37% (514/1365)   Resolving deltas:  40% (548/1365)   Resolving deltas:  42% (581/1365)   Resolving deltas:  44% (605/1365)   Resolving deltas:  50% (693/1365)   Resolving deltas:  85% (1173/1365)   Resolving deltas:  86% (1183/1365)   Resolving deltas:  88% (1213/1365)   Resolving deltas:  93% (1277/1365)   Resolving deltas:  94% (1294/1365)   Resolving deltas:  96% (1323/1365)   Resolving deltas: 100% (1365/1365)   Resolving deltas: 100% (1365/1365), completed with 14 local objects.
-From https://github.com/yufree/enviRSS
-   7a5846c..1739561  master     -> origin/master
-There is no tracking information for the current branch.
-Please specify which branch you want to merge with.
-See git-pull(1) for details.
-
-    git pull <remote> <branch>
-
-If you wish to set tracking information for this branch you can do so with:
-
-    git branch --set-upstream-to=origin/<branch> master
-
-]0;~/Box Sync/blog/enviRSSyumiaodeMacBook-Pro:enviRSS yufree$ git pullpython toy.py [5@drugbank[C[C[C[C[5Ptoy[C[C[C[C[1@3[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[5@drugbank[C[C[C[C[5Ptoy[C[C[C[C[6Pgit pull[K
