@@ -1,4 +1,4 @@
 "website","update"
 "www.journals.elsevier.com/water-research/rss","2018-11-07"
-"feeds.feedburner.com/acs/estlcu","2018-11-19"
-"feeds.feedburner.com/acs/esthag","2018-11-20"
+"feeds.feedburner.com/acs/estlcu","2018-11-21"
+"feeds.feedburner.com/acs/esthag","2018-11-21"
