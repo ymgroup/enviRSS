@@ -1,4 +1,4 @@
 "website","update"
 "www.journals.elsevier.com/water-research/rss","2020-06-16"
 "feeds.feedburner.com/acs/estlcu","2020-07-01"
-"feeds.feedburner.com/acs/esthag","2020-07-09"
+"feeds.feedburner.com/acs/esthag","2020-07-10"
