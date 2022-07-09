@@ -1,3 +1,3 @@
 "website","update"
 "https://feeds.feedburner.com/acs/estlcu","2022-07-06"
-"https://feeds.feedburner.com/acs/esthag","2022-07-07"
+"https://feeds.feedburner.com/acs/esthag","2022-07-09"
